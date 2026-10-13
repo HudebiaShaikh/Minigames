@@ -1,0 +1,2603 @@
+{
+  "@@locale": "en",
+
+  "appTitle": "Mini Games",
+  "@appTitle": {
+    "description": "Application title"
+  },
+  "appName": "Mini Games",
+  "@appName": {
+    "description": "Application name"
+  },
+
+  "home": "Home",
+  "@home": {
+    "description": "Home navigation label"
+  },
+  "settings": "Settings",
+  "@settings": {
+    "description": "Settings navigation label"
+  },
+  "back": "Back",
+  "@back": {
+    "description": "Back button label"
+  },
+  "play": "Play",
+  "@play": {
+    "description": "Play button label"
+  },
+  "pause": "Pause",
+  "@pause": {
+    "description": "Pause button label"
+  },
+  "restart": "Restart",
+  "@restart": {
+    "description": "Restart button label"
+  },
+  "quit": "Quit",
+  "@quit": {
+    "description": "Quit button label"
+  },
+  "newGame": "New Game",
+  "@newGame": {
+    "description": "New game button label"
+  },
+
+  "cancel": "Cancel",
+  "@cancel": {
+    "description": "Cancel button label"
+  },
+  "confirm": "Confirm",
+  "@confirm": {
+    "description": "Confirm button label"
+  },
+  "save": "Save",
+  "@save": {
+    "description": "Save button label"
+  },
+  "delete": "Delete",
+  "@delete": {
+    "description": "Delete button label"
+  },
+  "yes": "Yes",
+  "@yes": {
+    "description": "Yes button label"
+  },
+  "no": "No",
+  "@no": {
+    "description": "No button label"
+  },
+  "ok": "OK",
+  "@ok": {
+    "description": "OK button label"
+  },
+  "error": "Error",
+  "@error": {
+    "description": "Error message title"
+  },
+  "success": "Success",
+  "@success": {
+    "description": "Success message title"
+  },
+  "loading": "Loading...",
+  "@loading": {
+    "description": "Loading indicator text"
+  },
+  "time": "Time",
+  "@time": {
+    "description": "Time label"
+  },
+  "attempts": "Attempts",
+  "@attempts": {
+    "description": "Attempts label"
+  },
+  "score": "Score",
+  "@score": {
+    "description": "Score label"
+  },
+  "highScore": "High Score",
+  "@highScore": {
+    "description": "High score label"
+  },
+  "gameOver": "Game Over",
+  "@gameOver": {
+    "description": "Game over message"
+  },
+  "youWin": "You Win!",
+  "@youWin": {
+    "description": "Victory message"
+  },
+  "youLose": "You Lose",
+  "@youLose": {
+    "description": "Defeat message"
+  },
+  "duration": "Duration",
+  "@duration": {
+    "description": "Duration label"
+  },
+  "seconds": "seconds",
+  "@seconds": {
+    "description": "Seconds unit label"
+  },
+
+  "category_dice": "Dice",
+  "@category_dice": {
+    "description": "Dice category label"
+  },
+  "category_cards": "Cards",
+  "@category_cards": {
+    "description": "Cards category label"
+  },
+  "category_board": "Board",
+  "@category_board": {
+    "description": "Board category label"
+  },
+  "category_reaction": "Reaction",
+  "@category_reaction": {
+    "description": "Reaction category label"
+  },
+  "category_casual": "Casual",
+  "@category_casual": {
+    "description": "Casual category label"
+  },
+
+  "game_hit_and_blow": "Hit & Blow",
+  "@game_hit_and_blow": {
+    "description": "Hit & Blow game title"
+  },
+  "hnb_gameDescription": "Guess the hidden numbers and their positions!",
+  "@hnb_gameDescription": {
+    "description": "Hit & Blow game description"
+  },
+  "hnb_instructions": "Select numbers and place them in positions, then press Check to see if they're correct. A Hit means correct number in correct position. A Blow means correct number in wrong position.",
+  "@hnb_instructions": {
+    "description": "Hit & Blow game instructions"
+  },
+  "hnb_enterGuess": "Enter your guess",
+  "@hnb_enterGuess": {
+    "description": "Hit & Blow enter guess placeholder"
+  },
+  "hnb_check": "Check",
+  "@hnb_check": {
+    "description": "Hit & Blow check button"
+  },
+  "hnb_attempt": "Attempt {n}",
+  "@hnb_attempt": {
+    "description": "Hit & Blow attempt number with placeholder",
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "hnb_hit": "Hit",
+  "@hnb_hit": {
+    "description": "Hit & Blow Hit - correct position and number"
+  },
+  "hnb_blow": "Blow",
+  "@hnb_blow": {
+    "description": "Hit & Blow Blow - correct number wrong position"
+  },
+  "hnb_attemptsRemaining": "Attempts Remaining",
+  "@hnb_attemptsRemaining": {
+    "description": "Hit & Blow attempts remaining label"
+  },
+  "hnb_attemptsUsed": "Attempts Used",
+  "@hnb_attemptsUsed": {
+    "description": "Hit & Blow attempts used label"
+  },
+  "hnb_outOfAttempts": "Out of attempts!",
+  "@hnb_outOfAttempts": {
+    "description": "Hit & Blow out of attempts message"
+  },
+  "hnb_selectDifficulty": "Select Difficulty",
+  "@hnb_selectDifficulty": {
+    "description": "Hit & Blow select difficulty label"
+  },
+  "hnb_easyMode": "Easy Mode",
+  "@hnb_easyMode": {
+    "description": "Hit & Blow easy mode label"
+  },
+  "hnb_hardMode": "Hard Mode",
+  "@hnb_hardMode": {
+    "description": "Hit & Blow hard mode label"
+  },
+  "hnb_simpleDescription": "4 positions, digits 1-6",
+  "@hnb_simpleDescription": {
+    "description": "Hit & Blow simple mode description"
+  },
+  "hnb_hardDescription": "6 positions, digits 1-8",
+  "@hnb_hardDescription": {
+    "description": "Hit & Blow hard mode description"
+  },
+  "hnb_allowDuplicates": "Allow Duplicate Digits",
+  "@hnb_allowDuplicates": {
+    "description": "Hit & Blow allow duplicate digits toggle label"
+  },
+  "hnb_allowDuplicatesDesc": "When off, each digit in the target is unique",
+  "@hnb_allowDuplicatesDesc": {
+    "description": "Hit & Blow allow duplicate digits toggle description"
+  },
+  "hnb_gameWon": "Congratulations! You guessed the number!",
+  "@hnb_gameWon": {
+    "description": "Hit & Blow game won message"
+  },
+  "hnb_gameLost": "Game Over! The correct number was: ",
+  "@hnb_gameLost": {
+    "description": "Hit & Blow game lost message"
+  },
+  "hnb_newRecord": "New Record!",
+  "@hnb_newRecord": {
+    "description": "Hit & Blow new record message"
+  },
+  "hnb_guessHistory": "Guess History",
+  "@hnb_guessHistory": {
+    "description": "Hit & Blow guess history label"
+  },
+  "hnb_targetNumber": "Target Number",
+  "@hnb_targetNumber": {
+    "description": "Hit & Blow target number label"
+  },
+  "hnb_clear": "Clear",
+  "@hnb_clear": {
+    "description": "Hit & Blow clear button text"
+  },
+  "hnb_attemptsFormat": "Attempts: {current} / {max}",
+  "@hnb_attemptsFormat": {
+    "description": "Hit & Blow attempts display format",
+    "placeholders": {
+      "current": {
+        "type": "int"
+      },
+      "max": {
+        "type": "int"
+      }
+    }
+  },
+  "hnb_start_game": "Start Game",
+  "@hnb_start_game": {
+    "description": "Hit & Blow start game button"
+  },
+  "hnb_how_to_play": "How to Play",
+  "@hnb_how_to_play": {
+    "description": "Hit & Blow how to play button"
+  },
+  "hnb_rule1_title": "Goal",
+  "@hnb_rule1_title": {
+    "description": "Hit & Blow rule 1 title"
+  },
+  "hnb_rule1_desc": "Guess the hidden number sequence. Its position matters.",
+  "@hnb_rule1_desc": {
+    "description": "Hit & Blow rule 1 description"
+  },
+  "hnb_rule2_title": "Hit",
+  "@hnb_rule2_title": {
+    "description": "Hit & Blow rule 2 title"
+  },
+  "hnb_rule2_desc": "A Hit means a digit is correct AND in the right position.",
+  "@hnb_rule2_desc": {
+    "description": "Hit & Blow rule 2 description"
+  },
+  "hnb_rule3_title": "Blow",
+  "@hnb_rule3_title": {
+    "description": "Hit & Blow rule 3 title"
+  },
+  "hnb_rule3_desc": "A Blow means the digit exists in the target but is in the wrong position.",
+  "@hnb_rule3_desc": {
+    "description": "Hit & Blow rule 3 description"
+  },
+  "hnb_rule4_title": "Winning",
+  "@hnb_rule4_title": {
+    "description": "Hit & Blow rule 4 title"
+  },
+  "hnb_rule4_desc": "Get all Hits to win! You have 10 attempts to crack the code.",
+  "@hnb_rule4_desc": {
+    "description": "Hit & Blow rule 4 description"
+  },
+
+  "game_yacht_dice": "Yacht Dice",
+  "@game_yacht_dice": {
+    "description": "Yacht Dice game title"
+  },
+  "yd_gameDescription": "Roll dice to make combinations and score points!",
+  "@yd_gameDescription": {
+    "description": "Yacht Dice game description"
+  },
+  "yd_instructions": "Roll the dice and select scoring categories. You can re-roll up to 2 times by keeping good dice. The player with the highest score wins!",
+  "@yd_instructions": {
+    "description": "Yacht Dice game instructions"
+  },
+  "yd_rollDice": "Roll Dice",
+  "@yd_rollDice": {
+    "description": "Yacht Dice roll dice button"
+  },
+  "yd_roll": "Roll {n}",
+  "@yd_roll": {
+    "description": "Yacht Dice roll number with placeholder",
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "yd_keepDice": "Keep",
+  "@yd_keepDice": {
+    "description": "Yacht Dice keep dice button"
+  },
+  "yd_releaseDice": "Release",
+  "@yd_releaseDice": {
+    "description": "Yacht Dice release dice button"
+  },
+  "yd_rollsRemaining": "Rolls Remaining",
+  "@yd_rollsRemaining": {
+    "description": "Yacht Dice rolls remaining label"
+  },
+  "yd_rollsUsed": "Rolls Used",
+  "@yd_rollsUsed": {
+    "description": "Yacht Dice rolls used label"
+  },
+  "yd_selectCategory": "Select Category",
+  "@yd_selectCategory": {
+    "description": "Yacht Dice select category label"
+  },
+   "yd_confirmScore": "Confirm Score",
+   "@yd_confirmScore": {
+     "description": "Yacht Dice confirm score button"
+   },
+   "yd_confirmScoreMessage": "Select {category} for {score} points?",
+   "@yd_confirmScoreMessage": {
+     "description": "Yacht Dice confirm score dialog message with placeholders",
+"placeholders": {
+        "category": {
+          "type": "String"
+        },
+        "score": {
+          "type": "int"
+        }
+      }
+   },
+  "yd_categoryAlreadyUsed": "Category already used",
+  "@yd_categoryAlreadyUsed": {
+    "description": "Yacht Dice category already used message"
+  },
+  "yd_playerTurn": "Player's Turn",
+  "@yd_playerTurn": {
+    "description": "Yacht Dice player's turn label"
+  },
+  "yd_player": "Player {n}",
+  "@yd_player": {
+    "description": "Yacht Dice player number with placeholder",
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "yd_ai": "Computer",
+  "@yd_ai": {
+    "description": "Yacht Dice AI player label"
+  },
+  "yd_selectPlayers": "Select Players",
+  "@yd_selectPlayers": {
+    "description": "Yacht Dice select players label"
+  },
+  "yd_onePlayer": "1 Player",
+  "@yd_onePlayer": {
+    "description": "Yacht Dice one player mode"
+  },
+  "yd_twoPlayers": "2 Players",
+  "@yd_twoPlayers": {
+    "description": "Yacht Dice two players mode"
+  },
+  "yd_vsAI": "VS Computer",
+  "@yd_vsAI": {
+    "description": "Yacht Dice versus AI mode"
+  },
+  "yd_aiDifficulty": "AI Difficulty",
+  "@yd_aiDifficulty": {
+    "description": "Yacht Dice AI difficulty label"
+  },
+  "yd_easyAI": "Easy",
+  "@yd_easyAI": {
+    "description": "Yacht Dice easy AI difficulty"
+  },
+  "yd_mediumAI": "Medium",
+  "@yd_mediumAI": {
+    "description": "Yacht Dice medium AI difficulty"
+  },
+  "yd_hardAI": "Hard",
+  "@yd_hardAI": {
+    "description": "Yacht Dice hard AI difficulty"
+  },
+  "yd_bonus": "Bonus",
+  "@yd_bonus": {
+    "description": "Yacht Dice bonus label"
+  },
+  "yd_bonusThreshold": "Bonus at 63 points",
+  "@yd_bonusThreshold": {
+    "description": "Yacht Dice bonus threshold description"
+  },
+  "yd_ones": "Ones",
+  "@yd_ones": {
+    "description": "Yacht Dice scoring category - Ones"
+  },
+  "yd_twos": "Twos",
+  "@yd_twos": {
+    "description": "Yacht Dice scoring category - Twos"
+  },
+  "yd_threes": "Threes",
+  "@yd_threes": {
+    "description": "Yacht Dice scoring category - Threes"
+  },
+  "yd_fours": "Fours",
+  "@yd_fours": {
+    "description": "Yacht Dice scoring category - Fours"
+  },
+  "yd_fives": "Fives",
+  "@yd_fives": {
+    "description": "Yacht Dice scoring category - Fives"
+  },
+  "yd_sixes": "Sixes",
+  "@yd_sixes": {
+    "description": "Yacht Dice scoring category - Sixes"
+  },
+  "yd_allSelect": "Chance",
+  "@yd_allSelect": {
+    "description": "Yacht Dice scoring category - Chance (sum of all dice)"
+  },
+  "yd_fullHouse": "Full House",
+  "@yd_fullHouse": {
+    "description": "Yacht Dice scoring category - Full House"
+  },
+  "yd_fourOfAKind": "Four of a Kind",
+  "@yd_fourOfAKind": {
+    "description": "Yacht Dice scoring category - Four of a Kind"
+  },
+  "yd_smallStraight": "Small Straight",
+  "@yd_smallStraight": {
+    "description": "Yacht Dice scoring category - Small Straight (1-2-3-4 or 2-3-4-5 or 3-4-5-6)"
+  },
+  "yd_largeStraight": "Large Straight",
+  "@yd_largeStraight": {
+    "description": "Yacht Dice scoring category - Large Straight (1-2-3-4-5 or 2-3-4-5-6)"
+  },
+  "yd_yacht": "Yacht",
+  "@yd_yacht": {
+    "description": "Yacht Dice scoring category - Yacht (five of a kind)"
+  },
+  "yd_onesDescription": "Sum of all ones",
+  "@yd_onesDescription": {
+    "description": "Yacht Dice Ones category description"
+  },
+  "yd_twosDescription": "Sum of all twos",
+  "@yd_twosDescription": {
+    "description": "Yacht Dice Twos category description"
+  },
+  "yd_threesDescription": "Sum of all threes",
+  "@yd_threesDescription": {
+    "description": "Yacht Dice Threes category description"
+  },
+  "yd_foursDescription": "Sum of all fours",
+  "@yd_foursDescription": {
+    "description": "Yacht Dice Fours category description"
+  },
+  "yd_fivesDescription": "Sum of all fives",
+  "@yd_fivesDescription": {
+    "description": "Yacht Dice Fives category description"
+  },
+  "yd_sixesDescription": "Sum of all sixes",
+  "@yd_sixesDescription": {
+    "description": "Yacht Dice Sixes category description"
+  },
+  "yd_allSelectDescription": "Sum of all dice",
+  "@yd_allSelectDescription": {
+    "description": "Yacht Dice Chance category description"
+  },
+  "yd_fullHouseDescription": "Three of a kind and a pair - 25 points",
+  "@yd_fullHouseDescription": {
+    "description": "Yacht Dice Full House category description"
+  },
+  "yd_fourOfAKindDescription": "Four dice showing the same face - sum of all dice",
+  "@yd_fourOfAKindDescription": {
+    "description": "Yacht Dice Four of a Kind category description"
+  },
+  "yd_smallStraightDescription": "Sequence of four - 15 points",
+  "@yd_smallStraightDescription": {
+    "description": "Yacht Dice Small Straight category description"
+  },
+  "yd_largeStraightDescription": "Sequence of five - 30 points",
+  "@yd_largeStraightDescription": {
+    "description": "Yacht Dice Large Straight category description"
+  },
+  "yd_yachtDescription": "Five of a kind - 50 points",
+  "@yd_yachtDescription": {
+    "description": "Yacht Dice Yacht category description"
+  },
+  "yd_wins": "wins!",
+  "@yd_wins": {
+    "description": "Yacht Dice winner message"
+  },
+  "yd_draw": "It's a draw!",
+  "@yd_draw": {
+    "description": "Yacht Dice draw message"
+  },
+
+  "settingsTitle": "Settings",
+  "@settingsTitle": {
+    "description": "Settings page title"
+  },
+  "language": "Language",
+  "@language": {
+    "description": "Language setting label"
+  },
+  "english": "English",
+  "@english": {
+    "description": "English language option"
+  },
+  "chinese": "Chinese",
+  "@chinese": {
+    "description": "Chinese language option"
+  },
+  "theme": "Theme",
+  "@theme": {
+    "description": "Theme setting label"
+  },
+  "darkMode": "Dark Mode",
+  "@darkMode": {
+    "description": "Dark mode setting label"
+  },
+  "lightTheme": "Light",
+  "@lightTheme": {
+    "description": "Light theme option"
+  },
+  "darkTheme": "Dark",
+  "@darkTheme": {
+    "description": "Dark theme option"
+  },
+  "systemTheme": "Default",
+  "@systemTheme": {
+    "description": "System default theme option"
+  },
+  "sound": "Sound",
+  "@sound": {
+    "description": "Sound setting label"
+  },
+  "soundEnabled": "Sound On",
+  "@soundEnabled": {
+    "description": "Sound enabled option"
+  },
+  "soundDisabled": "Sound Off",
+  "@soundDisabled": {
+    "description": "Sound disabled option"
+  },
+  "difficulty": "Difficulty",
+  "@difficulty": {
+    "description": "Difficulty setting label"
+  },
+  "easy": "Easy",
+  "@easy": {
+    "description": "Easy difficulty option"
+  },
+  "normal": "Normal",
+  "@normal": {
+    "description": "Normal difficulty option"
+  },
+  "hard": "Hard",
+  "@hard": {
+    "description": "Hard difficulty option"
+  },
+  "fullscreen": "Fullscreen",
+  "@fullscreen": {
+    "description": "Fullscreen setting label"
+  },
+  "fullscreenEnabled": "Fullscreen On",
+  "@fullscreenEnabled": {
+    "description": "Fullscreen enabled option"
+  },
+  "about": "About",
+  "@about": {
+    "description": "About section label"
+  },
+  "version": "Version",
+  "@version": {
+    "description": "Version label"
+  },
+  "appDescription": "Classic games for everyone - board, dice, cards and puzzles.",
+  "@appDescription": {
+    "description": "Application description shown in settings"
+  },
+
+  "yd_exitTitle": "Exit Game",
+  "@yd_exitTitle": {
+    "description": "Yacht Dice exit confirmation dialog title"
+  },
+  "yd_exitMessage": "Do you want to save your progress before exiting?",
+  "@yd_exitMessage": {
+    "description": "Yacht Dice exit confirmation dialog message"
+  },
+  "yd_exitWithoutSaving": "Exit Without Saving",
+  "@yd_exitWithoutSaving": {
+    "description": "Yacht Dice button to exit without saving"
+  },
+  "yd_saveAndExit": "Save & Exit",
+  "@yd_saveAndExit": {
+    "description": "Yacht Dice button to save and exit"
+  },
+  "yd_resumeTitle": "Resume Game?",
+  "@yd_resumeTitle": {
+    "description": "Yacht Dice resume game dialog title"
+  },
+  "yd_resumeMessage": "You have a saved game. Would you like to resume or start a new game?",
+  "@yd_resumeMessage": {
+    "description": "Yacht Dice resume game dialog message"
+  },
+  "yd_resumeGame": "Resume Game",
+  "@yd_resumeGame": {
+    "description": "Yacht Dice button to resume saved game"
+  },
+  "yd_startNewGame": "Start New Game",
+  "@yd_startNewGame": {
+    "description": "Yacht Dice button to start new game (delete save)"
+  },
+  "yd_tapToKeep": "Tap dice to keep/release",
+  "@yd_tapToKeep": {
+    "description": "Yacht Dice hint text for keeping dice"
+  },
+
+  "game_guess_arrangement": "Guess Arrangement",
+  "@game_guess_arrangement": {
+    "description": "Guess Arrangement game title"
+  },
+  "ga_gameDescription": "Guess your opponent's hidden cards in this card guessing game!",
+  "@ga_gameDescription": {
+    "description": "Guess Arrangement game description"
+  },
+  "ga_twoPlayers": "2 Players",
+  "@ga_twoPlayers": {
+    "description": "2 player mode button"
+  },
+  "ga_easyAI": "Easy AI",
+  "@ga_easyAI": {
+    "description": "Easy AI mode button"
+  },
+  "ga_mediumAI": "Medium AI",
+  "@ga_mediumAI": {
+    "description": "Medium AI mode button"
+  },
+  "ga_hardAI": "Hard AI",
+  "@ga_hardAI": {
+    "description": "Hard AI mode button"
+  },
+  "ga_howToPlay": "How to Play",
+  "@ga_howToPlay": {
+    "description": "How to play button"
+  },
+  "ga_correct": "CORRECT!",
+  "@ga_correct": {
+    "description": "Correct guess message"
+  },
+  "ga_wrongGuess": "Wrong Guess",
+  "@ga_wrongGuess": {
+    "description": "Wrong guess message"
+  },
+  "ga_switchTurns": "Switch Turns",
+  "@ga_switchTurns": {
+    "description": "Switch turns dialog title"
+  },
+  "ga_readyToPlay": "Ready to Play",
+  "@ga_readyToPlay": {
+    "description": "Ready to play button after turn switch"
+  },
+  "ga_youWin": "You Win!",
+  "@ga_youWin": {
+    "description": "Win message"
+  },
+  "ga_aiWins": "AI Wins!",
+  "@ga_aiWins": {
+    "description": "AI wins message"
+  },
+  "ga_playAgain": "Play Again",
+  "@ga_playAgain": {
+    "description": "Play again button"
+  },
+  "ga_exit": "Exit",
+  "@ga_exit": {
+    "description": "Exit button"
+  },
+  "ga_round": "Round",
+  "@ga_round": {
+    "description": "Round label"
+  },
+  "ga_turn": "Turn",
+  "@ga_turn": {
+    "description": "Turn label"
+  },
+  "ga_combo": "Combo",
+  "@ga_combo": {
+    "description": "Combo label"
+  },
+  "ga_dealing": "Dealing cards...",
+  "@ga_dealing": {
+    "description": "Dealing cards message"
+  },
+  "ga_aiThinking": "AI Thinking...",
+  "@ga_aiThinking": {
+    "description": "AI thinking message"
+  },
+  "ga_position": "Position",
+  "@ga_position": {
+    "description": "Position label"
+  },
+  "ga_yourTurn": "Your Turn!",
+  "@ga_yourTurn": {
+    "description": "Your turn message"
+  },
+  "ga_opponentTurn": "Opponent's Turn",
+  "@ga_opponentTurn": {
+    "description": "Opponent's turn message"
+  },
+  "ga_cardsRemaining": "Cards Remaining",
+  "@ga_cardsRemaining": {
+    "description": "Cards remaining label"
+  },
+  "ga_selectGameMode": "Select Game Mode",
+  "@ga_selectGameMode": {
+    "description": "Select game mode label"
+  },
+  "ga_gotIt": "Got it!",
+  "@ga_gotIt": {
+    "description": "Got it button"
+  },
+  "ga_playerCards": "{name}'s Cards",
+  "@ga_playerCards": {
+    "description": "Player's cards label with placeholder",
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "ga_yourCards": "Your Cards",
+  "@ga_yourCards": {
+    "description": "Your cards label"
+  },
+  "ga_tapToGuess": "Tap a card to guess",
+  "@ga_tapToGuess": {
+    "description": "Hint to tap card"
+  },
+  "ga_positionSelected": "Position {position} selected - Choose a number below",
+  "@ga_positionSelected": {
+    "description": "Position selected message with placeholder",
+    "placeholders": {
+      "position": {
+        "type": "int"
+      }
+    }
+  },
+  "ga_selectNumber": "Select Number (A-K)",
+  "@ga_selectNumber": {
+    "description": "Select number label"
+  },
+  "ga_guessCorrect": "Correct! {card}",
+  "@ga_guessCorrect": {
+    "description": "Correct guess message with card placeholder",
+    "placeholders": {
+      "card": {
+        "type": "String"
+      }
+    }
+  },
+  "ga_guessCorrectCombo": "Correct! {card} Combo x{combo}",
+  "@ga_guessCorrectCombo": {
+    "description": "Correct guess message with combo",
+    "placeholders": {
+      "card": {
+        "type": "String"
+      },
+      "combo": {
+        "type": "int"
+      }
+    }
+  },
+  "ga_comboLabel": "Combo x{n}",
+  "@ga_comboLabel": {
+    "description": "Combo label with number",
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "ga_clearSelection": "Clear Selection",
+  "@ga_clearSelection": {
+    "description": "Clear selection button"
+  },
+  "ga_endTurn": "End Turn",
+  "@ga_endTurn": {
+    "description": "End turn button"
+  },
+  "ga_exitGameTitle": "Exit Game?",
+  "@ga_exitGameTitle": {
+    "description": "Exit game dialog title"
+  },
+  "ga_exitGameMessage": "Are you sure you want to exit? Current progress will be lost.",
+  "@ga_exitGameMessage": {
+    "description": "Exit game dialog message"
+  },
+  "ga_restartGameTitle": "Restart?",
+  "@ga_restartGameTitle": {
+    "description": "Restart game dialog title"
+  },
+  "ga_restartGameMessage": "Are you sure you want to restart the game?",
+  "@ga_restartGameMessage": {
+    "description": "Restart game dialog message"
+  },
+  "ga_restart": "Restart",
+  "@ga_restart": {
+    "description": "Restart button"
+  },
+  "ga_aiGuessing": "AI Guessing: Position {position} is {rank}",
+  "@ga_aiGuessing": {
+    "description": "AI guessing message with placeholders",
+    "placeholders": {
+      "position": {
+        "type": "int"
+      },
+      "rank": {
+        "type": "String"
+      }
+    }
+  },
+  "ga_rule1Title": "1. Dealing",
+  "@ga_rule1Title": {
+    "description": "Rule 1 title"
+  },
+  "ga_rule1Desc": "Each player draws 8 cards from a 52-card deck, arranged face-down from low to high (A=1 lowest, K=13 highest).",
+  "@ga_rule1Desc": {
+    "description": "Rule 1 description"
+  },
+  "ga_rule2Title": "2. Guessing",
+  "@ga_rule2Title": {
+    "description": "Rule 2 title"
+  },
+  "ga_rule2Desc": "Players take turns guessing each other's cards. For example: \"Position 3 is a 7\". Guess the rank only, not the suit.",
+  "@ga_rule2Desc": {
+    "description": "Rule 2 description"
+  },
+  "ga_rule3Title": "3. Correct Guess",
+  "@ga_rule3Title": {
+    "description": "Rule 3 title"
+  },
+  "ga_rule3Desc": "Reveal opponent's card! You can continue guessing, combo +1.",
+  "@ga_rule3Desc": {
+    "description": "Rule 3 description"
+  },
+  "ga_rule4Title": "4. Wrong Guess",
+  "@ga_rule4Title": {
+    "description": "Rule 4 title"
+  },
+  "ga_rule4Desc": "Turn passes to opponent. Your combo resets.",
+  "@ga_rule4Desc": {
+    "description": "Rule 4 description"
+  },
+  "ga_rule5Title": "5. Win Condition",
+  "@ga_rule5Title": {
+    "description": "Rule 5 title"
+  },
+  "ga_rule5Desc": "The player whose cards are all revealed first loses!",
+  "@ga_rule5Desc": {
+    "description": "Rule 5 description"
+  },
+  "ga_winnerPlayer": "You",
+  "@ga_winnerPlayer": {
+    "description": "Winner label for player"
+  },
+  "ga_winnerOpponent": "Opponent",
+  "@ga_winnerOpponent": {
+    "description": "Winner label for opponent"
+  },
+  "ga_aiWrongGuess": "AI guessed wrong!",
+  "@ga_aiWrongGuess": {
+    "description": "AI wrong guess message"
+  },
+  "ga_wrongGuessTitle": "Wrong Guess!",
+  "@ga_wrongGuessTitle": {
+    "description": "Wrong guess title"
+  },
+  "ga_turnToYou": "Your turn now!",
+  "@ga_turnToYou": {
+    "description": "Turn to player message"
+  },
+  "ga_turnToOpponent": "Opponent's turn now.",
+  "@ga_turnToOpponent": {
+    "description": "Turn to opponent message"
+  },
+  "ga_continue": "Continue",
+  "@ga_continue": {
+    "description": "Continue button"
+  },
+  "ga_aiRoundEnd": "AI Round End",
+  "@ga_aiRoundEnd": {
+    "description": "AI round end title"
+  },
+  "ga_aiCorrectCount": "AI guessed correctly {correct}/{total} times",
+  "@ga_aiCorrectCount": {
+    "description": "AI correct guess count",
+    "placeholders": {
+      "correct": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "ga_positionLabel": "Position {n}",
+  "@ga_positionLabel": {
+    "description": "Position label with number",
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "ga_switchTurnHint": "Please hand the device to {name}.\nRemember to hide your cards!",
+  "@ga_switchTurnHint": {
+    "description": "Switch turn hint message",
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "ga_winnerWins": "{name} Wins!",
+  "@ga_winnerWins": {
+    "description": "Winner wins message",
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "ga_winnerLoses": "{name} Wins...",
+  "@ga_winnerLoses": {
+    "description": "Opponent wins message",
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "ga_correctGuessesLabel": "Correct Guesses",
+  "@ga_correctGuessesLabel": {
+    "description": "Correct guesses label"
+  },
+  "ga_maxComboLabel": "Max Combo",
+  "@ga_maxComboLabel": {
+    "description": "Max combo label"
+  },
+  "ga_playDurationLabel": "Duration",
+  "@ga_playDurationLabel": {
+    "description": "Play duration label"
+  },
+  "ga_playAgainButton": "Play Again",
+  "@ga_playAgainButton": {
+    "description": "Play again button in game over"
+  },
+  "ga_durationFormat": "{minutes}m {seconds}s",
+  "@ga_durationFormat": {
+    "description": "Duration format",
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      },
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+
+  "game_2048": "2048",
+  "@game_2048": {
+    "description": "2048 game title"
+  },
+  "t48_gameDescription": "Combine tiles to reach 2048!",
+  "@t48_gameDescription": {
+    "description": "2048 game description"
+  },
+  "t48_instructions": "Swipe or use Arrow keys/WASD to move tiles. When two tiles with the same number touch, they merge into one. Try to reach 2048!",
+  "@t48_instructions": {
+    "description": "2048 game instructions"
+  },
+  "t48_newGame": "New Game",
+  "@t48_newGame": {
+    "description": "2048 new game button"
+  },
+  "t48_continue": "Continue",
+  "@t48_continue": {
+    "description": "2048 continue button"
+  },
+  "t48_loadGame": "Load Game",
+  "@t48_loadGame": {
+    "description": "2048 load game button"
+  },
+  "t48_saveGame": "Save Game",
+  "@t48_saveGame": {
+    "description": "2048 save game button"
+  },
+  "t48_saveSlot": "Save Slot {n}",
+  "@t48_saveSlot": {
+    "description": "2048 save slot label with placeholder",
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "t48_emptySlot": "Empty Slot",
+  "@t48_emptySlot": {
+    "description": "2048 empty save slot"
+  },
+  "t48_maxTile": "Max Tile",
+  "@t48_maxTile": {
+    "description": "2048 max tile label"
+  },
+  "t48_elapsedTime": "Time",
+  "@t48_elapsedTime": {
+    "description": "2048 elapsed time label"
+  },
+  "t48_exitTitle": "Exit Game",
+  "@t48_exitTitle": {
+    "description": "2048 exit confirmation dialog title"
+  },
+  "t48_exitMessage": "Do you want to save your progress before exiting?",
+  "@t48_exitMessage": {
+    "description": "2048 exit confirmation dialog message"
+  },
+  "t48_exitWithoutSaving": "Exit Without Saving",
+  "@t48_exitWithoutSaving": {
+    "description": "2048 button to exit without saving"
+  },
+  "t48_saveAndExit": "Save & Exit",
+  "@t48_saveAndExit": {
+    "description": "2048 button to save and exit"
+  },
+  "t48_gameOver": "Game Over!",
+  "@t48_gameOver": {
+    "description": "2048 game over message"
+  },
+  "t48_youWon": "You Won!",
+  "@t48_youWon": {
+    "description": "2048 win message"
+  },
+  "t48_playAgain": "Play Again",
+  "@t48_playAgain": {
+    "description": "2048 play again button"
+  },
+  "t48_savedAt": "Saved: {time}",
+  "@t48_savedAt": {
+    "description": "2048 saved time label",
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "t48_selectSlot": "Select a save slot",
+  "@t48_selectSlot": {
+    "description": "2048 select save slot message"
+  },
+  "t48_noSaves": "No saved games",
+  "@t48_noSaves": {
+    "description": "2048 no saves message"
+  },
+  "t48_delete": "Delete",
+  "@t48_delete": {
+    "description": "2048 delete save button"
+  },
+  "t48_overwrite": "Overwrite",
+  "@t48_overwrite": {
+    "description": "2048 overwrite save button"
+  },
+  "t48_autoSave": "Auto Save",
+  "@t48_autoSave": {
+    "description": "2048 auto-save slot label"
+  },
+  "t48_overwriteConfirm": "This slot already has a save. Overwrite it?",
+  "@t48_overwriteConfirm": {
+    "description": "2048 overwrite confirmation message"
+  },
+  "t48_savedSuccessfully": "Game saved!",
+  "@t48_savedSuccessfully": {
+    "description": "2048 game saved success message"
+  },
+  "t48_autoSaveInfo": "Auto-saved every 3 minutes during gameplay",
+  "@t48_autoSaveInfo": {
+    "description": "2048 auto-save info tooltip"
+  },
+
+  "game_mancala": "Mancala",
+  "@game_mancala": {
+    "description": "Mancala game title"
+  },
+  "mc_gameDescription": "Capture more seeds than your opponent in this ancient strategy game!",
+  "@mc_gameDescription": {
+    "description": "Mancala game description"
+  },
+  "mc_instructions": "Pick up all seeds from one of your pits and sow them counter-clockwise. Land in your store for an extra turn. Land in your empty pit to capture seeds from the opposite pit!",
+  "@mc_instructions": {
+    "description": "Mancala game instructions"
+  },
+  "mc_twoPlayers": "2 Players",
+  "@mc_twoPlayers": {
+    "description": "2 player mode button"
+  },
+  "mc_easyAI": "Easy AI",
+  "@mc_easyAI": {
+    "description": "Easy AI mode button"
+  },
+  "mc_mediumAI": "Medium AI",
+  "@mc_mediumAI": {
+    "description": "Medium AI mode button"
+  },
+  "mc_hardAI": "Hard AI",
+  "@mc_hardAI": {
+    "description": "Hard AI mode button"
+  },
+  "mc_howToPlay": "How to Play",
+  "@mc_howToPlay": {
+    "description": "How to play button"
+  },
+  "mc_yourTurn": "Your Turn",
+  "@mc_yourTurn": {
+    "description": "Your turn label"
+  },
+  "mc_opponentTurn": "Opponent's Turn",
+  "@mc_opponentTurn": {
+    "description": "Opponent's turn label"
+  },
+  "mc_playerStore": "Your Store",
+  "@mc_playerStore": {
+    "description": "Player's store label"
+  },
+  "mc_opponentStore": "Opponent's Store",
+  "@mc_opponentStore": {
+    "description": "Opponent's store label"
+  },
+  "mc_youWin": "You Win!",
+  "@mc_youWin": {
+    "description": "Win message"
+  },
+  "mc_youLose": "You Lose!",
+  "@mc_youLose": {
+    "description": "Lose message"
+  },
+  "mc_aiWins": "AI Wins!",
+  "@mc_aiWins": {
+    "description": "AI wins message"
+  },
+  "mc_draw": "It's a Draw!",
+  "@mc_draw": {
+    "description": "Draw message"
+  },
+  "mc_playAgain": "Play Again",
+  "@mc_playAgain": {
+    "description": "Play again button"
+  },
+  "mc_exit": "Exit",
+  "@mc_exit": {
+    "description": "Exit button"
+  },
+  "mc_selectPit": "Tap a pit to sow seeds",
+  "@mc_selectPit": {
+    "description": "Hint to select a pit"
+  },
+  "mc_gameSaved": "Game Saved",
+  "@mc_gameSaved": {
+    "description": "Game saved message"
+  },
+  "mc_extraTurn": "Extra Turn!",
+  "@mc_extraTurn": {
+    "description": "Extra turn message"
+  },
+  "mc_captured": "Captured!",
+  "@mc_captured": {
+    "description": "Capture message"
+  },
+  "colorScheme": "Color Scheme",
+  "@colorScheme": {
+    "description": "Color scheme setting label"
+  },
+  "woodenScheme": "Wooden",
+  "@woodenScheme": {
+    "description": "Wooden color scheme option"
+  },
+  "starlightScheme": "Starlight",
+  "@starlightScheme": {
+    "description": "Starlight color scheme option"
+  },
+  "forestScheme": "Forest",
+  "@forestScheme": {
+    "description": "Forest color scheme option"
+  },
+  "volcanoScheme": "Volcano",
+  "@volcanoScheme": {
+    "description": "Volcano color scheme option"
+  },
+  "einkScheme": "E-Ink",
+  "@einkScheme": {
+    "description": "E-Ink grayscale color scheme option for e-ink displays"
+  },
+  "hearts_game_hearts": "Hearts",
+  "@hearts_game_hearts": { "description": "Hearts game title" },
+  "hearts_description": "Avoid hearts and Queen of Spades!",
+  "@hearts_description": { "description": "Hearts game description" },
+  "hearts_howToPlay": "How to Play",
+  "@hearts_howToPlay": { "description": "How to play button" },
+  "hearts_startGame": "Start Game",
+  "@hearts_startGame": { "description": "Start game button" },
+  "hearts_playAgain": "Play Again",
+  "@hearts_playAgain": { "description": "Play again button" },
+  "hearts_dealing": "Dealing cards...",
+  "@hearts_dealing": { "description": "Dealing cards message" },
+  "hearts_passing": "Pass Phase",
+  "@hearts_passing": { "description": "Pass phase label" },
+  "hearts_playing": "Playing",
+  "@hearts_playing": { "description": "Playing status" },
+  "hearts_roundEnd": "Round End",
+  "@hearts_roundEnd": { "description": "Round end label" },
+  "hearts_gameOver": "Game Over",
+  "@hearts_gameOver": { "description": "Game over label" },
+  "hearts_aiThinking": "AI is thinking...",
+  "@hearts_aiThinking": { "description": "AI thinking message" },
+  "hearts_passDirection": "Pass Direction",
+  "@hearts_passDirection": { "description": "Pass direction label" },
+  "hearts_passLeft": "Pass Left",
+  "@hearts_passLeft": { "description": "Pass left direction" },
+  "hearts_passRight": "Pass Right",
+  "@hearts_passRight": { "description": "Pass right direction" },
+  "hearts_passAcross": "Pass Across",
+  "@hearts_passAcross": { "description": "Pass across direction" },
+  "hearts_passHold": "Hold (No Pass)",
+  "@hearts_passHold": { "description": "Hold (no pass) option" },
+  "hearts_selectCardsToPass": "Select {n} cards to pass",
+  "@hearts_selectCardsToPass": {
+    "description": "Select cards to pass instruction",
+    "placeholders": { "n": { "type": "int" } }
+  },
+  "hearts_passTimer": "Time remaining: {s}s",
+  "@hearts_passTimer": {
+    "description": "Pass timer display",
+    "placeholders": { "s": { "type": "int" } }
+  },
+  "hearts_confirmPass": "Confirm Pass",
+  "@hearts_confirmPass": { "description": "Confirm pass button" },
+  "hearts_timerUnlimited": "Unlimited",
+  "@hearts_timerUnlimited": { "description": "Unlimited timer option" },
+  "hearts_timer15s": "15 seconds",
+  "@hearts_timer15s": { "description": "15 second timer option" },
+  "hearts_timer20s": "20 seconds",
+  "@hearts_timer20s": { "description": "20 second timer option" },
+  "hearts_timer30s": "30 seconds",
+  "@hearts_timer30s": { "description": "30 second timer option" },
+  "hearts_yourTurn": "Your turn!",
+  "@hearts_yourTurn": { "description": "Your turn message" },
+  "hearts_waitTurn": "Waiting for opponent...",
+  "@hearts_waitTurn": { "description": "Waiting for opponent message" },
+  "hearts_heartsBroken": "Hearts Broken!",
+  "@hearts_heartsBroken": { "description": "Hearts broken message" },
+  "hearts_firstTrick": "First trick - 2♣ leads",
+  "@hearts_firstTrick": { "description": "First trick instruction" },
+  "hearts_trickWon": "Trick won by {player}",
+  "@hearts_trickWon": {
+    "description": "Trick won message",
+    "placeholders": { "player": { "type": "String" } }
+  },
+  "hearts_roundScores": "Round Scores",
+  "@hearts_roundScores": { "description": "Round scores label" },
+  "hearts_totalScores": "Total Scores",
+  "@hearts_totalScores": { "description": "Total scores label" },
+  "hearts_pointsTaken": "Points taken",
+  "@hearts_pointsTaken": { "description": "Points taken label" },
+  "hearts_heartsCount": "Hearts: {n}",
+  "@hearts_heartsCount": {
+    "description": "Hearts count display",
+    "placeholders": { "n": { "type": "int" } }
+  },
+  "hearts_shootMoon": "Shoot the Moon!",
+  "@hearts_shootMoon": { "description": "Shoot the moon message" },
+  "hearts_shootMoonSuccess": "Successfully shot the moon!",
+  "@hearts_shootMoonSuccess": { "description": "Shoot moon success message" },
+  "hearts_announceMoonOption": "Announce moon attempt",
+  "@hearts_announceMoonOption": { "description": "Announce moon option" },
+  "hearts_hideMoonOption": "Hide moon attempt",
+  "@hearts_hideMoonOption": { "description": "Hide moon option" },
+  "hearts_player": "Player {n}",
+  "@hearts_player": {
+    "description": "Player number with placeholder",
+    "placeholders": { "n": { "type": "int" } }
+  },
+  "hearts_you": "You",
+  "@hearts_you": { "description": "Player you label" },
+  "hearts_winner": "Winner",
+  "@hearts_winner": { "description": "Winner label" },
+  "hearts_finalResults": "Final Results",
+  "@hearts_finalResults": { "description": "Final results label" },
+  "hearts_rule1Title": "1. Goal",
+  "@hearts_rule1Title": { "description": "Rule 1 title" },
+  "hearts_rule1Desc": "Avoid collecting hearts (♥ = 1 point each) and Queen of Spades (♠Q = 13 points). Lowest score wins!",
+  "@hearts_rule1Desc": { "description": "Rule 1 description" },
+  "hearts_rule2Title": "2. Passing",
+  "@hearts_rule2Title": { "description": "Rule 2 title" },
+  "hearts_rule2Desc": "Before each round, pass 3 cards: left→right→across→hold, cycling every 4 rounds.",
+  "@hearts_rule2Desc": { "description": "Rule 2 description" },
+  "hearts_rule3Title": "3. Playing",
+  "@hearts_rule3Title": { "description": "Rule 3 title" },
+  "hearts_rule3Desc": "Player with 2♣ leads first trick. Must follow suit if possible. Hearts can't lead until \"broken\".",
+  "@hearts_rule3Desc": { "description": "Rule 3 description" },
+  "hearts_rule4Title": "4. Scoring",
+  "@hearts_rule4Title": { "description": "Rule 4 title" },
+  "hearts_rule4Desc": "Collect all 14 penalty cards = Shoot the Moon (you get 0, others get 26). Game ends at 100 points.",
+  "@hearts_rule4Desc": { "description": "Rule 4 description" },
+  "hearts_rule5Title": "5. Winning",
+  "@hearts_rule5Title": { "description": "Rule 5 title" },
+  "hearts_rule5Desc": "Lowest total score wins when game ends!",
+  "@hearts_rule5Desc": { "description": "Rule 5 description" },
+  "hearts_resume": "Resume",
+  "@hearts_resume": { "description": "Resume button" },
+  "hearts_saveGame": "Save Game",
+  "@hearts_saveGame": { "description": "Save game button" },
+  "hearts_loadGame": "Load Game",
+  "@hearts_loadGame": { "description": "Load game button" },
+  "hearts_newGame": "New Game",
+  "@hearts_newGame": { "description": "New game button" },
+  "hearts_exitGame": "Exit",
+  "@hearts_exitGame": { "description": "Exit button" },
+  "hearts_aiDifficulty": "AI Difficulty",
+  "@hearts_aiDifficulty": { "description": "AI difficulty setting" },
+  "hearts_randomPosition": "Random player position",
+  "@hearts_randomPosition": { "description": "Random position setting" },
+  "hearts_passTimerSetting": "Pass timer",
+  "@hearts_passTimerSetting": { "description": "Pass timer setting" },
+  "hearts_passComplete": "Pass Complete",
+  "@hearts_passComplete": { "description": "Pass complete dialog title" },
+  "hearts_receivedCards": "You received these cards:",
+  "@hearts_receivedCards": { "description": "Received cards dialog message" },
+  "hearts_continuePlaying": "Continue",
+  "@hearts_continuePlaying": { "description": "Continue button after showing received cards" },
+  "comingSoon": "Coming Soon",
+  "@comingSoon": { "description": "Coming soon text" },
+
+  "game_bluff_bar": "Bluff Bar",
+  "@game_bluff_bar": {
+    "description": "Bluff Bar game title"
+  },
+  "bb_game_title": "Bluff Bar",
+  "@bb_game_title": {
+    "description": "Bluff Bar game title displayed in game"
+  },
+  "bb_game_subtitle": "Bluff, Challenge, Survive",
+  "@bb_game_subtitle": {
+    "description": "Bluff Bar game subtitle"
+  },
+  "bb_gameDescription": "A poker-style bluffing game with Russian roulette elimination",
+  "@bb_gameDescription": {
+    "description": "Bluff Bar game description"
+  },
+
+  "bb_phase_setup": "Setup Phase",
+  "@bb_phase_setup": {
+    "description": "Setup phase label"
+  },
+  "bb_phase_deal": "Dealing Phase",
+  "@bb_phase_deal": {
+    "description": "Dealing phase label"
+  },
+  "bb_phase_play": "Play Phase",
+  "@bb_phase_play": {
+    "description": "Play phase label"
+  },
+  "bb_phase_challenge": "Challenge Phase",
+  "@bb_phase_challenge": {
+    "description": "Challenge phase label"
+  },
+  "bb_phase_reveal": "Reveal Phase",
+  "@bb_phase_reveal": {
+    "description": "Reveal phase label"
+  },
+  "bb_phase_roulette": "Russian Roulette",
+  "@bb_phase_roulette": {
+    "description": "Russian roulette phase label"
+  },
+  "bb_phase_roundEnd": "Round End",
+  "@bb_phase_roundEnd": {
+    "description": "Round end phase label"
+  },
+  "bb_phase_gameOver": "Game Over",
+  "@bb_phase_gameOver": {
+    "description": "Game over phase label"
+  },
+
+  "bb_target_card": "Target Card",
+  "@bb_target_card": {
+    "description": "Target card label"
+  },
+  "bb_target_jacks": "Target: J",
+  "@bb_target_jacks": {
+    "description": "Jack is the target card"
+  },
+  "bb_target_queens": "Target: Q",
+  "@bb_target_queens": {
+    "description": "Queen is the target card"
+  },
+  "bb_target_kings": "Target: K",
+  "@bb_target_kings": {
+    "description": "King is the target card"
+  },
+  "bb_target_aces": "Target: A",
+  "@bb_target_aces": {
+    "description": "Ace is the target card"
+  },
+
+  "bb_play_cards": "Play Cards",
+  "@bb_play_cards": {
+    "description": "Play cards button"
+  },
+  "bb_challenge": "Challenge!",
+  "@bb_challenge": {
+    "description": "Challenge button"
+  },
+  "bb_pass": "Pass",
+  "@bb_pass": {
+    "description": "Pass button"
+  },
+  "bb_select_cards": "Select Cards",
+  "@bb_select_cards": {
+    "description": "Select cards label"
+  },
+
+  "bb_claim": "Claim",
+  "@bb_claim": {
+    "description": "Claim label"
+  },
+  "bb_claiming": "{count} {rank}s",
+  "@bb_claiming": {
+    "description": "Claiming message with count and rank placeholders",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      },
+      "rank": {
+        "type": "String"
+      }
+    }
+  },
+  "bb_cards_played": "{count} cards played",
+  "@bb_cards_played": {
+    "description": "Cards played message with count placeholder",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+
+  "bb_challenge_successful": "Challenge Successful!",
+  "@bb_challenge_successful": {
+    "description": "Challenge successful message"
+  },
+  "bb_challenge_failed": "Challenge Failed",
+  "@bb_challenge_failed": {
+    "description": "Challenge failed message"
+  },
+  "bb_liar_guilty": "Caught the Liar!",
+  "@bb_liar_guilty": {
+    "description": "Liar caught message"
+  },
+  "bb_liar_innocent": "Honest Play!",
+  "@bb_liar_innocent": {
+    "description": "Honest play message"
+  },
+
+  "bb_roulette_draw": "Draw Roulette Card",
+  "@bb_roulette_draw": {
+    "description": "Draw roulette card button"
+  },
+  "bb_roulette_survived": "Survived!",
+  "@bb_roulette_survived": {
+    "description": "Survived roulette message"
+  },
+  "bb_roulette_eliminated": "Eliminated!",
+  "@bb_roulette_eliminated": {
+    "description": "Eliminated by roulette message"
+  },
+  "bb_roulette_remaining": "{count} cards remaining",
+  "@bb_roulette_remaining": {
+    "description": "Roulette cards remaining message with count placeholder",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+
+  "bb_your_turn": "Your Turn",
+  "@bb_your_turn": {
+    "description": "Your turn message"
+  },
+  "bb_opponent_turn": "Opponent's Turn",
+  "@bb_opponent_turn": {
+    "description": "Opponent's turn message"
+  },
+  "bb_cards_in_hand": "{count} cards in hand",
+  "@bb_cards_in_hand": {
+    "description": "Cards in hand message with count placeholder",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "bb_eliminated_player": "Eliminated",
+  "@bb_eliminated_player": {
+    "description": "Eliminated player label"
+  },
+
+  "bb_ai_thinking": "AI Thinking...",
+  "@bb_ai_thinking": {
+    "description": "AI thinking message"
+  },
+  "bb_ai_playing": "AI Playing...",
+  "@bb_ai_playing": {
+    "description": "AI playing message"
+  },
+  "bb_ai_challenging": "AI Challenges!",
+  "@bb_ai_challenging": {
+    "description": "AI challenges message"
+  },
+
+  "bb_winner": "{name} Wins!",
+  "@bb_winner": {
+    "description": "Winner message with name placeholder",
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "bb_last_survivor": "Last Survivor",
+  "@bb_last_survivor": {
+    "description": "Last survivor label"
+  },
+  "bb_play_again": "Play Again",
+  "@bb_play_again": {
+    "description": "Play again button"
+  },
+  "bb_exit": "Exit",
+  "@bb_exit": {
+    "description": "Exit button"
+  },
+
+  "bb_ai_difficulty": "AI Difficulty",
+  "@bb_ai_difficulty": {
+    "description": "AI difficulty setting label"
+  },
+  "bb_easy": "Easy",
+  "@bb_easy": {
+    "description": "Easy difficulty option"
+  },
+  "bb_medium": "Medium",
+  "@bb_medium": {
+    "description": "Medium difficulty option"
+  },
+  "bb_hard": "Hard",
+  "@bb_hard": {
+    "description": "Hard difficulty option"
+  },
+  "bb_start_game": "Start Game",
+  "@bb_start_game": {
+    "description": "Start game button"
+  },
+  "bb_how_to_play": "How to Play",
+  "@bb_how_to_play": {
+    "description": "How to play button"
+  },
+
+  "bb_rule1_title": "1. Target Card",
+  "@bb_rule1_title": {
+    "description": "Rule 1 title"
+  },
+  "bb_rule1_desc": "Each round randomly designates J/Q/K/A as the target card. That card and Joker count as \"real cards\".",
+  "@bb_rule1_desc": {
+    "description": "Rule 1 description"
+  },
+  "bb_rule2_title": "2. Playing Cards",
+  "@bb_rule2_title": {
+    "description": "Rule 2 title"
+  },
+  "bb_rule2_desc": "Each turn, play 1-5 cards face-down and claim they are target cards.",
+  "@bb_rule2_desc": {
+    "description": "Rule 2 description"
+  },
+  "bb_rule3_title": "3. Challenge",
+  "@bb_rule3_title": {
+    "description": "Rule 3 title"
+  },
+  "bb_rule3_desc": "Call \"Liar!\" to challenge the previous player. Flip cards to verify: fake cards = challenger wins, real cards = challenger loses.",
+  "@bb_rule3_desc": {
+    "description": "Rule 3 description"
+  },
+  "bb_rule4_title": "4. Elimination",
+  "@bb_rule4_title": {
+    "description": "Rule 4 title"
+  },
+  "bb_rule4_desc": "The loser triggers Russian roulette: draw a card. Live bullet = eliminated.",
+  "@bb_rule4_desc": {
+    "description": "Rule 4 description"
+  },
+  "bb_rule5_title": "5. Victory",
+  "@bb_rule5_title": {
+    "description": "Rule 5 title"
+  },
+  "bb_rule5_desc": "Become the last surviving player to win!",
+  "@bb_rule5_desc": {
+    "description": "Rule 5 description"
+  },
+
+  "bb_got_it": "Got it!",
+  "@bb_got_it": {
+    "description": "Got it button"
+  },
+  "bb_two_players": "2 Players",
+  "@bb_two_players": {
+    "description": "2 player mode button"
+  },
+  "bb_vs_ai": "VS AI",
+  "@bb_vs_ai": {
+    "description": "VS AI mode button"
+  },
+
+  "bb_eliminated": "ELIMINATED",
+  "@bb_eliminated": {
+    "description": "Eliminated status badge"
+  },
+  "bb_survived": "SURVIVED!",
+  "@bb_survived": {
+    "description": "Survived status message"
+  },
+  "bb_draw_card": "Draw Card",
+  "@bb_draw_card": {
+    "description": "Draw card button for roulette"
+  },
+  "bb_drawing": "Drawing...",
+  "@bb_drawing": {
+    "description": "Drawing status text"
+  },
+  "bb_cards_remaining": "{count} cards remaining",
+  "@bb_cards_remaining": {
+    "description": "Cards remaining text",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "bb_no_cards_played": "No cards played yet",
+  "@bb_no_cards_played": {
+    "description": "Empty played pile message"
+  },
+  "bb_cards_played_total": "{count} cards played",
+  "@bb_cards_played_total": {
+    "description": "Total cards played text",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "bb_no_cards": "No cards",
+  "@bb_no_cards": {
+    "description": "Empty hand message"
+  },
+  "bb_one_player_three_ai": "1 Player + 3 AI",
+  "@bb_one_player_three_ai": {
+    "description": "Game mode description"
+  },
+  "bb_exit_confirm": "Are you sure you want to exit? Progress will be lost.",
+  "@bb_exit_confirm": {
+    "description": "Exit confirmation message"
+  },
+  "bb_round": "Round {number}",
+  "@bb_round": {
+    "description": "Round number display",
+    "placeholders": {
+      "number": {
+        "type": "int"
+      }
+    }
+  },
+  "bb_round_ranking": "Round {number} Rankings",
+  "@bb_round_ranking": {
+    "description": "Round ranking title",
+    "placeholders": {
+      "number": {
+        "type": "int"
+      }
+    }
+  },
+  "bb_roulette_shots": "Shots fired",
+  "@bb_roulette_shots": {
+    "description": "Roulette shots label"
+  },
+  "bb_select_claim": "Select claim rank",
+  "@bb_select_claim": {
+    "description": "Claim selection hint"
+  },
+  "bb_your_hand": "Your Hand",
+  "@bb_your_hand": {
+    "description": "Hand section title"
+  },
+  "bb_waiting_for": "Waiting for {name}...",
+  "@bb_waiting_for": {
+    "description": "Waiting for opponent message",
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "bb_game_screen_coming": "Game screen coming soon!",
+  "@bb_game_screen_coming": {
+    "description": "Placeholder message"
+  },
+  "bb_position_north": "North",
+  "@bb_position_north": {
+    "description": "North position"
+  },
+  "bb_position_south": "South",
+  "@bb_position_south": {
+    "description": "South position"
+  },
+  "bb_position_east": "East",
+  "@bb_position_east": {
+    "description": "East position"
+  },
+  "bb_position_west": "West",
+  "@bb_position_west": {
+    "description": "West position"
+  },
+  "bb_challenge_title": "{challenger} challenges {challenged}",
+  "@bb_challenge_title": {
+    "description": "Challenge overlay title with challenger and challenged player names",
+    "placeholders": {
+      "challenger": {
+        "type": "String"
+      },
+      "challenged": {
+        "type": "String"
+      }
+    }
+  },
+  "bb_revealed_cards": "Revealed Cards",
+  "@bb_revealed_cards": {
+    "description": "Label for revealed cards section in challenge overlay"
+  },
+  "bb_liar": "Liar!",
+  "@bb_liar": {
+    "description": "Challenge result - player was lying"
+  },
+  "bb_honest": "Honest!",
+  "@bb_honest": {
+    "description": "Challenge result - player was telling truth"
+  },
+  "bb_face_roulette": "faces Roulette",
+  "@bb_face_roulette": {
+    "description": "Label indicating player must face Russian roulette"
+  },
+  "bb_victory": "VICTORY",
+  "@bb_victory": {
+    "description": "Victory result text"
+  },
+  "bb_defeat": "DEFEAT",
+  "@bb_defeat": {
+    "description": "Defeat result text"
+  },
+  "bb_ranking": "Rankings",
+  "@bb_ranking": {
+    "description": "Rankings section title"
+  },
+  "bb_rounds_survived": "{count} rounds",
+  "@bb_rounds_survived": {
+    "description": "Rounds survived text",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "bb_play_again": "Play Again",
+  "@bb_play_again": {
+    "description": "Play again button"
+  },
+
+  "game_reaction_test": "Reaction Test",
+  "@game_reaction_test": {
+    "description": "Reaction Test game title"
+  },
+  "rt_gameDescription": "Test your reflexes! Tap as fast as you can when colors change.",
+  "@rt_gameDescription": {
+    "description": "Reaction Test game description"
+  },
+  "rt_instructions": "Wait for the background color to change, then tap as fast as you can!",
+  "@rt_instructions": {
+    "description": "Reaction Test game instructions"
+  },
+  "rt_selectPreset": "Select Color Scheme",
+  "@rt_selectPreset": {
+    "description": "Color preset selection label"
+  },
+  "rt_redGreenColorblind": "Red-Green",
+  "@rt_redGreenColorblind": {
+    "description": "Red-green colorblind friendly preset"
+  },
+  "rt_blueYellowColorblind": "Blue-Yellow",
+  "@rt_blueYellowColorblind": {
+    "description": "Blue-yellow colorblind friendly preset"
+  },
+  "rt_monochromacy": "Black-White",
+  "@rt_monochromacy": {
+    "description": "Monochromacy (grayscale) preset"
+  },
+  "rt_custom": "Custom",
+  "@rt_custom": {
+    "description": "Custom color selection option"
+  },
+  "rt_beforeColor": "Before Color",
+  "@rt_beforeColor": {
+    "description": "Before color selection label"
+  },
+  "rt_afterColor": "After Color",
+  "@rt_afterColor": {
+    "description": "After color selection label"
+  },
+  "rt_sameColorWarning": "Before and After colors cannot be the same!",
+  "@rt_sameColorWarning": {
+    "description": "Warning when same color is selected"
+  },
+  "rt_testNumber": "Test {current} of {total}",
+  "@rt_testNumber": {
+    "description": "Current test number display",
+    "placeholders": {
+      "current": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "rt_waitForIt": "Wait for it...",
+  "@rt_waitForIt": {
+    "description": "Instruction to wait for color change"
+  },
+  "rt_tapNow": "TAP NOW!",
+  "@rt_tapNow": {
+    "description": "Instruction to tap when color changed"
+  },
+  "rt_reactionTime": "{time} ms",
+  "@rt_reactionTime": {
+    "description": "Reaction time display in milliseconds",
+    "placeholders": {
+      "time": {
+        "type": "int"
+      }
+    }
+  },
+  "rt_results": "Results",
+  "@rt_results": {
+    "description": "Results dialog title"
+  },
+  "rt_average": "Average",
+  "@rt_average": {
+    "description": "Average reaction time label"
+  },
+  "rt_best": "Best",
+  "@rt_best": {
+    "description": "Best reaction time label"
+  },
+  "rt_worst": "Worst",
+  "@rt_worst": {
+    "description": "Worst reaction time label"
+  },
+  "rt_tooEarly": "Too early! Wait for the color to change.",
+  "@rt_tooEarly": {
+    "description": "Warning when user taps before color changes"
+  },
+  "leaderboard": "Leaderboard",
+  "@leaderboard": {
+    "description": "Leaderboard dialog title"
+  },
+  "rt_leaderboardSubtitle": "Fastest reaction times",
+  "@rt_leaderboardSubtitle": {
+    "description": "Leaderboard subtitle for reaction test"
+  },
+  "rt_noRecords": "No records yet. Play to set your first record!",
+  "@rt_noRecords": {
+    "description": "Message when no leaderboard records exist"
+  },
+  "close": "Close",
+  "@close": {
+    "description": "Close button label"
+  },
+
+  "game_aim_test": "Aim Test",
+  "@game_aim_test": {
+    "description": "Aim Test game title"
+  },
+  "at_gameDescription": "Test your aim! Click the bubbles as fast as you can in 30 seconds.",
+  "@at_gameDescription": {
+    "description": "Aim Test game description"
+  },
+  "at_instructions": "Click the bubbles before they disappear! You have 30 seconds.",
+  "@at_instructions": {
+    "description": "Aim Test game instructions"
+  },
+  "at_settings": "Settings",
+  "@at_settings": {
+    "description": "Settings section title"
+  },
+  "at_deadZone": "Dead Zone",
+  "@at_deadZone": {
+    "description": "Dead zone setting label"
+  },
+  "at_deadZonePercent": "{percent}% dead zone",
+  "@at_deadZonePercent": {
+    "description": "Dead zone percentage display",
+    "placeholders": {
+      "percent": {
+        "type": "int"
+      }
+    }
+  },
+  "at_bubbleColor": "Bubble Color",
+  "@at_bubbleColor": {
+    "description": "Bubble color setting label"
+  },
+  "at_gameDuration": "Game Duration",
+  "@at_gameDuration": {
+    "description": "Game duration setting label"
+  },
+  "at_misses": "Misses",
+  "@at_misses": {
+    "description": "Missed clicks counter label"
+  },
+  "at_appearAnimation": "Bubble Animation",
+  "@at_appearAnimation": {
+    "description": "Enable bubble appear animation setting"
+  },
+  "at_bubbleSize": "Bubble Size",
+  "@at_bubbleSize": {
+    "description": "Bubble size setting label"
+  },
+  "at_preview": "Preview",
+  "@at_preview": {
+    "description": "Live preview label for settings"
+  },
+  "at_hits": "Hits",
+  "@at_hits": {
+    "description": "Hits counter label"
+  },
+  "at_accuracy": "Accuracy",
+  "@at_accuracy": {
+    "description": "Accuracy percentage label"
+  },
+  "at_gameOver": "Game Over!",
+  "@at_gameOver": {
+    "description": "Game over dialog title"
+  },
+  "at_finalScore": "Final Score",
+  "@at_finalScore": {
+    "description": "Final score label"
+  },
+  "at_bubblesSpawned": "Bubbles Spawned",
+  "@at_bubblesSpawned": {
+    "description": "Total bubbles spawned label"
+  },
+  "at_timeUp": "Time's Up!",
+  "@at_timeUp": {
+    "description": "Time's up message"
+  },
+  "at_playAgain": "Play Again",
+  "@at_playAgain": {
+    "description": "Play again button"
+  },
+  "at_startGame": "Start Game",
+  "@at_startGame": {
+    "description": "Start game button"
+  },
+  "at_countdown3": "3",
+  "@at_countdown3": {
+    "description": "Countdown number 3"
+  },
+  "at_countdown2": "2",
+  "@at_countdown2": {
+    "description": "Countdown number 2"
+  },
+  "at_countdown1": "1",
+  "@at_countdown1": {
+    "description": "Countdown number 1"
+  },
+  "at_countdownGo": "GO!",
+  "@at_countdownGo": {
+    "description": "Countdown GO! message"
+  },
+
+  "category_dice": "Dice",
+  "@category_dice": {
+    "description": "Category name for dice games"
+  },
+  "category_cards": "Cards",
+  "@category_cards": {
+    "description": "Category name for card games"
+  },
+  "category_board": "Board",
+  "@category_board": {
+    "description": "Category name for board games"
+  },
+  "category_reaction": "Reaction",
+  "@category_reaction": {
+    "description": "Category name for reaction games"
+  },
+  "category_casual": "Casual",
+  "@category_casual": {
+    "description": "Category name for casual games"
+  },
+  "category_favorites": "Favorites",
+  "@category_favorites": {
+    "description": "Favorites category header"
+  },
+  "favorites_count": "{count} games",
+  "@favorites_count": {
+    "description": "Game count in favorites section",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+   "sort_by_category": "By Category",
+   "@sort_by_category": {
+     "description": "Sort mode option"
+   },
+   "sort_by_release_time": "By Release Time",
+   "@sort_by_release_time": {
+     "description": "Sort mode option - by release time"
+   },
+   "sort_by_creator": "By Creator",
+   "@sort_by_creator": {
+     "description": "Sort mode option - by creator/AI model"
+   },
+   "creator_glm": "GLM-5 + qwen3.5-plus",
+   "@creator_glm": {
+     "description": "Creator group name for GLM models"
+   },
+   "creator_minimax": "MiniMax-M2.7",
+   "@creator_minimax": {
+     "description": "Creator group name for MiniMax model"
+   },
+   "creator_mimo": "mimo-v2.5-pro",
+   "@creator_mimo": {
+     "description": "Creator group name for mimo model"
+   },
+    "category_all_games": "Other Games",
+    "@category_all_games": {
+      "description": "Category name for other games section"
+    },
+    "ci_gameTitle": "Chess",
+    "@ci_gameTitle": {
+      "description": "Chess (International) game title"
+    },
+    "ci_gameDescription": "Classic chess vs AI with FEN import and PGN export",
+    "@ci_gameDescription": {
+      "description": "Chess game description"
+    },
+    "ci_startGame": "Start Game",
+    "@ci_startGame": {
+      "description": "Start game button"
+    },
+    "ci_howToPlay": "How to Play",
+    "@ci_howToPlay": {
+      "description": "How to play button"
+    },
+    "ci_aiDifficulty": "AI Difficulty",
+    "@ci_aiDifficulty": {
+      "description": "AI difficulty selection label"
+    },
+    "ci_easy": "Easy",
+    "@ci_easy": {
+      "description": "Easy AI difficulty"
+    },
+    "ci_hard": "Hard",
+    "@ci_hard": {
+      "description": "Hard AI difficulty"
+    },
+    "ci_playAs": "Play As",
+    "@ci_playAs": {
+      "description": "Color selection label"
+    },
+    "ci_white": "White",
+    "@ci_white": {
+      "description": "White pieces"
+    },
+    "ci_black": "Black",
+    "@ci_black": {
+      "description": "Black pieces"
+    },
+    "ci_importFen": "Import Position (FEN)",
+    "@ci_importFen": {
+      "description": "FEN import section title"
+    },
+    "ci_importFenDesc": "Paste a FEN string to start from a specific position",
+    "@ci_importFenDesc": {
+      "description": "FEN import description"
+    },
+    "ci_validate": "Validate",
+    "@ci_validate": {
+      "description": "Validate FEN button"
+    },
+    "ci_fenValid": "FEN is valid! Position will be imported.",
+    "@ci_fenValid": {
+      "description": "FEN validation success message"
+    },
+    "ci_newGame": "New Game",
+    "@ci_newGame": {
+      "description": "New game menu item"
+    },
+    "ci_undo": "Undo",
+    "@ci_undo": {
+      "description": "Undo move button"
+    },
+    "ci_copyFen": "Copy FEN",
+    "@ci_copyFen": {
+      "description": "Copy FEN to clipboard"
+    },
+    "ci_exportPgn": "Export PGN",
+    "@ci_exportPgn": {
+      "description": "Export PGN menu item"
+    },
+    "ci_exitGame": "Exit Game",
+    "@ci_exitGame": {
+      "description": "Exit game menu item"
+    },
+    "ci_exitConfirm": "Are you sure you want to exit? Current progress will be lost.",
+    "@ci_exitConfirm": {
+      "description": "Exit game confirmation message"
+    },
+    "ci_restartConfirm": "Are you sure you want to restart? Current progress will be lost.",
+    "@ci_restartConfirm": {
+      "description": "Restart game confirmation message"
+    },
+    "ci_fenCopied": "FEN copied to clipboard",
+    "@ci_fenCopied": {
+      "description": "FEN copied snackbar message"
+    },
+    "ci_pgnCopied": "PGN copied to clipboard",
+    "@ci_pgnCopied": {
+      "description": "PGN copied snackbar message"
+    },
+    "ci_copyPgn": "Copy PGN",
+    "@ci_copyPgn": {
+      "description": "Copy PGN button"
+    },
+    "ci_moveHistory": "Move History",
+    "@ci_moveHistory": {
+      "description": "Move history panel title"
+    },
+    "ci_noMovesYet": "No moves yet",
+    "@ci_noMovesYet": {
+      "description": "Empty move history placeholder"
+    },
+    "ci_preparing": "Preparing...",
+    "@ci_preparing": {
+      "description": "Game preparing status"
+    },
+    "ci_yourTurn": "Your turn",
+    "@ci_yourTurn": {
+      "description": "Player's turn indicator"
+    },
+    "ci_aiTurn": "AI thinking...",
+    "@ci_aiTurn": {
+      "description": "AI's turn indicator"
+    },
+    "ci_youAreInCheck": "You are in check!",
+    "@ci_youAreInCheck": {
+      "description": "Player in check warning"
+    },
+    "ci_aiInCheck": "AI is in check",
+    "@ci_aiInCheck": {
+      "description": "AI in check indicator"
+    },
+    "ci_youWin": "You win!",
+    "@ci_youWin": {
+      "description": "Player wins message"
+    },
+    "ci_aiWins": "AI wins",
+    "@ci_aiWins": {
+      "description": "AI wins message"
+    },
+    "ci_stalemate": "Stalemate - Draw",
+    "@ci_stalemate": {
+      "description": "Stalemate result"
+    },
+    "ci_draw": "Draw",
+    "@ci_draw": {
+      "description": "Draw result"
+    },
+    "ci_choosePromotion": "Choose promotion piece",
+    "@ci_choosePromotion": {
+      "description": "Pawn promotion prompt"
+    },
+    "ci_thinking": "Thinking...",
+    "@ci_thinking": {
+      "description": "AI thinking indicator text"
+    },
+    "ci_you": "You",
+    "@ci_you": {
+      "description": "Player label"
+    },
+    "ci_rule1Title": "Objective",
+    "@ci_rule1Title": {
+      "description": "Rule 1 title"
+    },
+    "ci_rule1Desc": "Checkmate the opponent's king. The game ends when the king is under attack and cannot escape.",
+    "@ci_rule1Desc": {
+      "description": "Rule 1 description"
+    },
+    "ci_rule2Title": "Movement",
+    "@ci_rule2Title": {
+      "description": "Rule 2 title"
+    },
+    "ci_rule2Desc": "Tap a piece to see legal moves highlighted. Tap a highlighted square to move. Each piece type moves differently.",
+    "@ci_rule2Desc": {
+      "description": "Rule 2 description"
+    },
+    "ci_rule3Title": "Special Moves",
+    "@ci_rule3Title": {
+      "description": "Rule 3 title"
+    },
+    "ci_rule3Desc": "Castling: King moves 2 squares toward a rook. En passant: Pawn captures an adjacent pawn that just moved 2 squares. Promotion: Pawn reaching the last rank becomes a queen, rook, bishop, or knight.",
+    "@ci_rule3Desc": {
+      "description": "Rule 3 description"
+    },
+    "ci_rule4Title": "Draw Conditions",
+    "@ci_rule4Title": {
+      "description": "Rule 4 title"
+    },
+    "ci_rule4Desc": "The game is a draw by stalemate, 50-move rule (no captures or pawn moves), threefold repetition, or insufficient material.",
+    "@ci_rule4Desc": {
+      "description": "Rule 4 description"
+    },
+    "ci_rule5Title": "FEN & PGN",
+    "@ci_rule5Title": {
+      "description": "Rule 5 title"
+    },
+    "ci_rule5Desc": "Import positions using FEN notation. Export your games in PGN format from the menu.",
+    "@ci_rule5Desc": {
+      "description": "Rule 5 description"
+    },
+    "ci_pieceStyle": "Piece Style",
+    "@ci_pieceStyle": {
+      "description": "Piece style selection label"
+    },
+    "ci_styleOutline": "Outline",
+    "@ci_styleOutline": {
+      "description": "Outline piece style (white outlined, black filled)"
+    },
+    "ci_styleFilled": "Filled",
+    "@ci_styleFilled": {
+      "description": "Filled piece style (all pieces use filled characters)"
+    },
+
+    "sg_gameTitle": "Schulte Grid",
+    "@sg_gameTitle": {
+      "description": "Schulte Grid game title"
+    },
+    "sg_gameDescription": "Train your focus! Tap numbers 1 to N in order as fast as you can.",
+    "@sg_gameDescription": {
+      "description": "Schulte Grid game description"
+    },
+    "sg_instructions": "Choose a grid size to start. Tap numbers from 1 to N in ascending order. The timer starts when you tap 1.",
+    "@sg_instructions": {
+      "description": "Schulte Grid game instructions"
+    },
+    "sg_sizeLabel": "{size}x{size} Grid ({total} numbers)",
+    "@sg_sizeLabel": {
+      "description": "Grid size label with total numbers",
+      "placeholders": {
+        "size": { "type": "int" },
+        "total": { "type": "int" }
+      }
+    },
+    "sg_bestTime": "Best",
+    "@sg_bestTime": {
+      "description": "Best time label on start screen"
+    },
+    "sg_noRecord": "No record yet",
+    "@sg_noRecord": {
+      "description": "No record label on start screen"
+    },
+    "sg_tapToStart": "Tap 1 to start the timer",
+    "@sg_tapToStart": {
+      "description": "Instruction to tap first number"
+    },
+    "sg_paused": "Paused",
+    "@sg_paused": {
+      "description": "Timer paused indicator"
+    },
+    "sg_next": "Next",
+    "@sg_next": {
+      "description": "Next number to tap label"
+    },
+    "sg_completed": "Completed!",
+    "@sg_completed": {
+      "description": "Training completed dialog title"
+    },
+    "sg_newBest": "New Personal Best!",
+    "@sg_newBest": {
+      "description": "New personal best record badge"
+    },
+    "sg_leaderboard": "Leaderboard",
+    "@sg_leaderboard": {
+      "description": "Schulte Grid leaderboard title"
+    },
+    "sg_noRecords": "No records yet.\nComplete a training to set your first record!",
+    "@sg_noRecords": {
+      "description": "Empty leaderboard message"
+    },
+    "sg_clearLeaderboard": "Clear Leaderboard",
+    "@sg_clearLeaderboard": {
+      "description": "Clear leaderboard button"
+    },
+    "sg_clearConfirm": "Are you sure you want to clear all records for this grid size?",
+    "@sg_clearConfirm": {
+      "description": "Clear leaderboard confirmation message"
+    },
+    "createdByGlm": "Created by GLM-5 + qwen3.5-plus",
+    "@createdByGlm": {
+      "description": "Creator credit for games built by GLM-5 + qwen3.5-plus"
+    },
+
+  "game_fishing": "Fishing",
+  "@game_fishing": {
+    "description": "Fishing game title"
+  },
+  "fishing_gameDescription": "Cast your line and catch fish! Watch for bites and react quickly.",
+  "@fishing_gameDescription": {
+    "description": "Fishing game description"
+  },
+  "fishing_step1": "Cast your rod and wait for a bite",
+  "@fishing_step1": {
+    "description": "Fishing step 1 instruction"
+  },
+  "fishing_step2": "Tap quickly when you see the bite indicator",
+  "@fishing_step2": {
+    "description": "Fishing step 2 instruction"
+  },
+  "fishing_step3": "Use up/down buttons to move the power block and align with the fish",
+  "@fishing_step3": {
+    "description": "Fishing step 3 instruction"
+  },
+  "fishing_step4": "Fill the progress bar to catch the fish",
+  "@fishing_step4": {
+    "description": "Fishing step 4 instruction"
+  },
+  "fishing_throwRod": "Throw your line!",
+  "@fishing_throwRod": {
+    "description": "Throw rod instruction text"
+  },
+  "fishing_cast": "Cast Line",
+  "@fishing_cast": {
+    "description": "Cast line button text"
+  },
+  "fishing_caught": "Fish Caught!",
+  "@fishing_caught": {
+    "description": "Fish caught success message"
+  },
+  "fishing_escaped": "Fish Escaped!",
+  "@fishing_escaped": {
+    "description": "Fish escaped failure message"
+  },
+  "fishing_continue": "Continue Fishing",
+  "@fishing_continue": {
+    "description": "Continue fishing button text"
+  },
+  "fishing_tapNow": "TAP NOW!",
+  "@fishing_tapNow": {
+    "description": "Tap now instruction during bite"
+  },
+  "fishing_aligned": "ALIGNED!",
+  "@fishing_aligned": {
+    "description": "Alignment indicator when block is aligned with fish"
+  },
+  "fishing_moveToFish": "Move to fish!",
+  "@fishing_moveToFish": {
+    "description": "Alignment indicator when block needs to move"
+  },
+  "fishing_up": "UP",
+  "@fishing_up": {
+    "description": "Up direction label for control button"
+  },
+  "fishing_hold": "HOLD",
+  "@fishing_hold": {
+    "description": "Hold instruction for control button"
+  },
+  "fishing_waitingForFish": "Waiting for fish...",
+  "@fishing_waitingForFish": {
+    "description": "Waiting message when expecting a bite"
+  },
+  "fishing_caughtStat": "Caught",
+  "@fishing_caughtStat": {
+    "description": "Caught fish stat label"
+  },
+  "fishing_escapedStat": "Escaped",
+  "@fishing_escapedStat": {
+    "description": "Escaped fish stat label"
+  },
+  "fishing_fishSmall": "Small Fish",
+  "@fishing_fishSmall": {
+    "description": "Small fish name (easy difficulty)"
+  },
+  "fishing_fishMedium": "Medium Fish",
+  "@fishing_fishMedium": {
+    "description": "Medium fish name (medium difficulty)"
+  },
+  "fishing_fishLarge": "Large Fish",
+  "@fishing_fishLarge": {
+    "description": "Large fish name (hard difficulty)"
+  },
+  "fishing_fishWild": "Wild Fish",
+  "@fishing_fishWild": {
+    "description": "Wild fish name (wild difficulty)"
+  },
+  "fishing_fishLegendary": "Legendary Fish",
+  "@fishing_fishLegendary": {
+    "description": "Legendary fish name"
+  },
+
+  "game_connect_four": "Connect Four",
+  "@game_connect_four": {
+    "description": "Connect Four game display name"
+  },
+  "c4_gameTitle": "Connect Four",
+  "@c4_gameTitle": {
+    "description": "Connect Four game title"
+  },
+  "c4_gameDescription": "Classic two-player strategy game. Drop discs into a 7×6 grid and be the first to connect four in a row!",
+  "@c4_gameDescription": {
+    "description": "Connect Four game description"
+  },
+  "c4_howToPlay": "How to Play",
+  "@c4_howToPlay": {
+    "description": "How to play title"
+  },
+  "c4_rule1Title": "Board",
+  "@c4_rule1Title": {
+    "description": "Rule 1 title"
+  },
+  "c4_rule1Desc": "The board has 7 rows and 6 columns. Players take turns dropping discs into any column.",
+  "@c4_rule1Desc": {
+    "description": "Rule 1 description"
+  },
+  "c4_rule2Title": "Gravity",
+  "@c4_rule2Title": {
+    "description": "Rule 2 title"
+  },
+  "c4_rule2Desc": "Discs fall to the lowest available position in the selected column due to gravity.",
+  "@c4_rule2Desc": {
+    "description": "Rule 2 description"
+  },
+  "c4_rule3Title": "Winning",
+  "@c4_rule3Title": {
+    "description": "Rule 3 title"
+  },
+  "c4_rule3Desc": "The first player to connect four discs in a row — horizontally, vertically, or diagonally — wins!",
+  "@c4_rule3Desc": {
+    "description": "Rule 3 description"
+  },
+  "c4_rule4Title": "Draw",
+  "@c4_rule4Title": {
+    "description": "Rule 4 title"
+  },
+  "c4_rule4Desc": "If all 42 positions are filled and no one has connected four, the game is a draw.",
+  "@c4_rule4Desc": {
+    "description": "Rule 4 description"
+  },
+  "c4_startGame": "Start Game",
+  "@c4_startGame": {
+    "description": "Start game button"
+  },
+  "c4_newGame": "New Game",
+  "@c4_newGame": {
+    "description": "New game button"
+  },
+  "c4_undo": "Undo",
+  "@c4_undo": {
+    "description": "Undo button"
+  },
+  "c4_exitGame": "Exit Game",
+  "@c4_exitGame": {
+    "description": "Exit game button"
+  },
+  "c4_exitConfirm": "Are you sure you want to exit the current game?",
+  "@c4_exitConfirm": {
+    "description": "Exit confirmation message"
+  },
+  "c4_restartConfirm": "Start a new game? Current progress will be lost.",
+  "@c4_restartConfirm": {
+    "description": "Restart confirmation message"
+  },
+  "c4_aiDifficulty": "AI Difficulty",
+  "@c4_aiDifficulty": {
+    "description": "AI difficulty label"
+  },
+  "c4_easy": "Easy",
+  "@c4_easy": {
+    "description": "Easy difficulty"
+  },
+  "c4_medium": "Medium",
+  "@c4_medium": {
+    "description": "Medium difficulty"
+  },
+  "c4_hard": "Hard",
+  "@c4_hard": {
+    "description": "Hard difficulty"
+  },
+  "c4_you": "You",
+  "@c4_you": {
+    "description": "Player label"
+  },
+  "c4_ai": "AI",
+  "@c4_ai": {
+    "description": "AI label"
+  },
+  "c4_vs": "VS",
+  "@c4_vs": {
+    "description": "Versus label"
+  },
+  "c4_thinking": "Thinking...",
+  "@c4_thinking": {
+    "description": "AI thinking indicator"
+  },
+  "c4_preparing": "Preparing...",
+  "@c4_preparing": {
+    "description": "Game preparing status"
+  },
+  "c4_yourTurn": "Your turn — tap a column to drop",
+  "@c4_yourTurn": {
+    "description": "Player turn status"
+  },
+  "c4_aiTurn": "AI is thinking...",
+  "@c4_aiTurn": {
+    "description": "AI turn status"
+  },
+  "c4_youWin": "You Win!",
+  "@c4_youWin": {
+    "description": "Player wins message"
+  },
+  "c4_aiWins": "AI Wins!",
+  "@c4_aiWins": {
+    "description": "AI wins message"
+  },
+  "c4_draw": "It's a Draw!",
+  "@c4_draw": {
+    "description": "Draw message"
+  },
+  "c4_moveHistory": "Move History",
+  "@c4_moveHistory": {
+    "description": "Move history panel title"
+  },
+  "c4_noMovesYet": "No moves yet",
+  "@c4_noMovesYet": {
+    "description": "Empty move history message"
+  }
+}

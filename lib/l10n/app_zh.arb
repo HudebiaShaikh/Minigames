@@ -1,0 +1,2406 @@
+{
+  "@@locale": "zh",
+
+  "appTitle": "小游戏合集",
+  "@appTitle": {
+    "description": "Application title"
+  },
+  "appName": "小游戏合集",
+  "@appName": {
+    "description": "Application name"
+  },
+
+  "home": "首页",
+  "@home": {
+    "description": "Home navigation label"
+  },
+  "settings": "设置",
+  "@settings": {
+    "description": "Settings navigation label"
+  },
+  "back": "返回",
+  "@back": {
+    "description": "Back button label"
+  },
+  "play": "开始",
+  "@play": {
+    "description": "Play button label"
+  },
+  "pause": "暂停",
+  "@pause": {
+    "description": "Pause button label"
+  },
+  "restart": "重新开始",
+  "@restart": {
+    "description": "Restart button label"
+  },
+  "quit": "退出",
+  "@quit": {
+    "description": "Quit button label"
+  },
+  "newGame": "新游戏",
+  "@newGame": {
+    "description": "New game button label"
+  },
+
+  "cancel": "取消",
+  "@cancel": {
+    "description": "Cancel button label"
+  },
+  "confirm": "确认",
+  "@confirm": {
+    "description": "Confirm button label"
+  },
+  "save": "保存",
+  "@save": {
+    "description": "Save button label"
+  },
+  "delete": "删除",
+  "@delete": {
+    "description": "Delete button label"
+  },
+  "yes": "是",
+  "@yes": {
+    "description": "Yes button label"
+  },
+  "no": "否",
+  "@no": {
+    "description": "No button label"
+  },
+  "ok": "确定",
+  "@ok": {
+    "description": "OK button label"
+  },
+  "error": "错误",
+  "@error": {
+    "description": "Error message title"
+  },
+  "success": "成功",
+  "@success": {
+    "description": "Success message title"
+  },
+  "loading": "加载中...",
+  "@loading": {
+    "description": "Loading indicator text"
+  },
+  "time": "时间",
+  "@time": {
+    "description": "Time label"
+  },
+  "attempts": "尝试次数",
+  "@attempts": {
+    "description": "Attempts label"
+  },
+  "score": "得分",
+  "@score": {
+    "description": "Score label"
+  },
+  "highScore": "最高分",
+  "@highScore": {
+    "description": "High score label"
+  },
+  "gameOver": "游戏结束",
+  "@gameOver": {
+    "description": "Game over message"
+  },
+  "youWin": "你赢了！",
+  "@youWin": {
+    "description": "Victory message"
+  },
+  "youLose": "你输了",
+  "@youLose": {
+    "description": "Defeat message"
+  },
+  "duration": "用时",
+  "@duration": {
+    "description": "Duration label"
+  },
+  "seconds": "秒",
+  "@seconds": {
+    "description": "Seconds unit label"
+  },
+
+  "category_dice": "骰子",
+  "@category_dice": {
+    "description": "Dice category label"
+  },
+  "category_cards": "卡牌",
+  "@category_cards": {
+    "description": "Cards category label"
+  },
+  "category_board": "棋盘",
+  "@category_board": {
+    "description": "Board category label"
+  },
+  "category_reaction": "反应",
+  "@category_reaction": {
+    "description": "Reaction category label"
+  },
+  "category_casual": "休闲",
+  "@category_casual": {
+    "description": "Casual category label"
+  },
+
+  "game_hit_and_blow": "猜数字",
+  "@game_hit_and_blow": {
+    "description": "Hit & Blow game title"
+  },
+  "hnb_gameDescription": "猜出隐藏的数字和它们的位置！",
+  "@hnb_gameDescription": {
+    "description": "Hit & Blow game description"
+  },
+  "hnb_instructions": "选择数字并放入位置，然后点击检查。命中表示数字和位置都正确，擦伤表示数字正确但位置错误。",
+  "@hnb_instructions": {
+    "description": "Hit & Blow game instructions"
+  },
+  "hnb_enterGuess": "输入你的猜测",
+  "@hnb_enterGuess": {
+    "description": "Hit & Blow enter guess placeholder"
+  },
+  "hnb_check": "检查",
+  "@hnb_check": {
+    "description": "Hit & Blow check button"
+  },
+  "hnb_attempt": "第{n}次尝试",
+  "@hnb_attempt": {
+    "description": "Hit & Blow attempt number with placeholder",
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "hnb_hit": "命中",
+  "@hnb_hit": {
+    "description": "Hit & Blow Hit - correct position and number"
+  },
+  "hnb_blow": "擦伤",
+  "@hnb_blow": {
+    "description": "Hit & Blow Blow - correct number wrong position"
+  },
+  "hnb_attemptsRemaining": "剩余尝试次数",
+  "@hnb_attemptsRemaining": {
+    "description": "Hit & Blow attempts remaining label"
+  },
+  "hnb_attemptsUsed": "已用尝试次数",
+  "@hnb_attemptsUsed": {
+    "description": "Hit & Blow attempts used label"
+  },
+  "hnb_outOfAttempts": "尝试次数已用尽！",
+  "@hnb_outOfAttempts": {
+    "description": "Hit & Blow out of attempts message"
+  },
+  "hnb_selectDifficulty": "选择难度",
+  "@hnb_selectDifficulty": {
+    "description": "Hit & Blow select difficulty label"
+  },
+  "hnb_easyMode": "简单模式",
+  "@hnb_easyMode": {
+    "description": "Hit & Blow easy mode label"
+  },
+  "hnb_hardMode": "困难模式",
+  "@hnb_hardMode": {
+    "description": "Hit & Blow hard mode label"
+  },
+  "hnb_simpleDescription": "4个位置，数字1-6",
+  "@hnb_simpleDescription": {
+    "description": "Hit & Blow simple mode description"
+  },
+  "hnb_hardDescription": "6个位置，数字1-8",
+  "@hnb_hardDescription": {
+    "description": "Hit & Blow hard mode description"
+  },
+  "hnb_allowDuplicates": "允许重复数字",
+  "@hnb_allowDuplicates": {
+    "description": "Hit & Blow allow duplicate digits toggle label"
+  },
+  "hnb_allowDuplicatesDesc": "关闭时，目标中每个数字唯一",
+  "@hnb_allowDuplicatesDesc": {
+    "description": "Hit & Blow allow duplicate digits toggle description"
+  },
+  "hnb_gameWon": "恭喜！你猜对了！",
+  "@hnb_gameWon": {
+    "description": "Hit & Blow game won message"
+  },
+  "hnb_gameLost": "游戏结束！正确答案是：",
+  "@hnb_gameLost": {
+    "description": "Hit & Blow game lost message"
+  },
+  "hnb_newRecord": "新纪录！",
+  "@hnb_newRecord": {
+    "description": "Hit & Blow new record message"
+  },
+  "hnb_guessHistory": "猜测历史",
+  "@hnb_guessHistory": {
+    "description": "Hit & Blow guess history label"
+  },
+  "hnb_targetNumber": "目标数字",
+  "@hnb_targetNumber": {
+    "description": "Hit & Blow target number label"
+  },
+  "hnb_clear": "清除",
+  "@hnb_clear": {
+    "description": "Hit & Blow clear button text"
+  },
+  "hnb_attemptsFormat": "尝试次数：{current} / {max}",
+  "@hnb_attemptsFormat": {
+    "description": "Hit & Blow attempts display format",
+    "placeholders": {
+      "current": {
+        "type": "int"
+      },
+      "max": {
+        "type": "int"
+      }
+    }
+  },
+  "hnb_start_game": "开始游戏",
+  "@hnb_start_game": {
+    "description": "Hit & Blow start game button"
+  },
+  "hnb_how_to_play": "游戏规则",
+  "@hnb_how_to_play": {
+    "description": "Hit & Blow how to play button"
+  },
+  "hnb_rule1_title": "目标",
+  "@hnb_rule1_title": {
+    "description": "Hit & Blow rule 1 title"
+  },
+  "hnb_rule1_desc": "猜出隐藏的数字序列。位置很重要。",
+  "@hnb_rule1_desc": {
+    "description": "Hit & Blow rule 1 description"
+  },
+  "hnb_rule2_title": "命中（Hit）",
+  "@hnb_rule2_title": {
+    "description": "Hit & Blow rule 2 title"
+  },
+  "hnb_rule2_desc": "数字正确且位置正确，称为一次命中。",
+  "@hnb_rule2_desc": {
+    "description": "Hit & Blow rule 2 description"
+  },
+  "hnb_rule3_title": "擦伤（Blow）",
+  "@hnb_rule3_title": {
+    "description": "Hit & Blow rule 3 title"
+  },
+  "hnb_rule3_desc": "数字存在于目标中但位置错误，称为一次擦伤。",
+  "@hnb_rule3_desc": {
+    "description": "Hit & Blow rule 3 description"
+  },
+  "hnb_rule4_title": "胜利条件",
+  "@hnb_rule4_title": {
+    "description": "Hit & Blow rule 4 title"
+  },
+  "hnb_rule4_desc": "全部命中即可获胜！你有10次尝试机会来破解密码。",
+  "@hnb_rule4_desc": {
+    "description": "Hit & Blow rule 4 description"
+  },
+
+  "game_yacht_dice": "游艇骰子",
+  "@game_yacht_dice": {
+    "description": "Yacht Dice game title"
+  },
+  "yd_gameDescription": "掷骰子组合得分！",
+  "@yd_gameDescription": {
+    "description": "Yacht Dice game description"
+  },
+  "yd_instructions": "掷骰子并选择计分类别。你可以保留好骰子并重新掷剩余的骰子，最多重掷3次。得分最高的玩家获胜！",
+  "@yd_instructions": {
+    "description": "Yacht Dice game instructions"
+  },
+  "yd_rollDice": "掷骰子",
+  "@yd_rollDice": {
+    "description": "Yacht Dice roll dice button"
+  },
+  "yd_roll": "第{n}次掷骰",
+  "@yd_roll": {
+    "description": "Yacht Dice roll number with placeholder",
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "yd_keepDice": "保留",
+  "@yd_keepDice": {
+    "description": "Yacht Dice keep dice button"
+  },
+  "yd_releaseDice": "释放",
+  "@yd_releaseDice": {
+    "description": "Yacht Dice release dice button"
+  },
+  "yd_rollsRemaining": "剩余掷骰次数",
+  "@yd_rollsRemaining": {
+    "description": "Yacht Dice rolls remaining label"
+  },
+  "yd_rollsUsed": "已用掷骰次数",
+  "@yd_rollsUsed": {
+    "description": "Yacht Dice rolls used label"
+  },
+  "yd_selectCategory": "选择类别",
+  "@yd_selectCategory": {
+    "description": "Yacht Dice select category label"
+  },
+   "yd_confirmScore": "确认得分",
+   "@yd_confirmScore": {
+     "description": "Yacht Dice confirm score button"
+   },
+   "yd_confirmScoreMessage": "选择{category}获取{score}分？",
+   "@yd_confirmScoreMessage": {
+     "description": "Yacht Dice confirm score dialog message with placeholders",
+"placeholders": {
+        "category": {
+          "type": "String"
+        },
+        "score": {
+          "type": "int"
+        }
+      }
+   },
+  "yd_categoryAlreadyUsed": "该类别已使用",
+  "@yd_categoryAlreadyUsed": {
+    "description": "Yacht Dice category already used message"
+  },
+  "yd_playerTurn": "玩家回合",
+  "@yd_playerTurn": {
+    "description": "Yacht Dice player's turn label"
+  },
+  "yd_player": "玩家{n}",
+  "@yd_player": {
+    "description": "Yacht Dice player number with placeholder",
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "yd_ai": "电脑",
+  "@yd_ai": {
+    "description": "Yacht Dice AI player label"
+  },
+  "yd_selectPlayers": "选择玩家",
+  "@yd_selectPlayers": {
+    "description": "Yacht Dice select players label"
+  },
+  "yd_onePlayer": "1人游戏",
+  "@yd_onePlayer": {
+    "description": "Yacht Dice one player mode"
+  },
+  "yd_twoPlayers": "2人对战",
+  "@yd_twoPlayers": {
+    "description": "Yacht Dice two players mode"
+  },
+  "yd_vsAI": "人机对战",
+  "@yd_vsAI": {
+    "description": "Yacht Dice versus AI mode"
+  },
+  "yd_aiDifficulty": "电脑难度",
+  "@yd_aiDifficulty": {
+    "description": "Yacht Dice AI difficulty label"
+  },
+  "yd_easyAI": "简单",
+  "@yd_easyAI": {
+    "description": "Yacht Dice easy AI difficulty"
+  },
+  "yd_mediumAI": "中等",
+  "@yd_mediumAI": {
+    "description": "Yacht Dice medium AI difficulty"
+  },
+  "yd_hardAI": "困难",
+  "@yd_hardAI": {
+    "description": "Yacht Dice hard AI difficulty"
+  },
+  "yd_bonus": "奖励分",
+  "@yd_bonus": {
+    "description": "Yacht Dice bonus label"
+  },
+  "yd_bonusThreshold": "63分获得奖励",
+  "@yd_bonusThreshold": {
+    "description": "Yacht Dice bonus threshold description"
+  },
+  "yd_ones": "一点",
+  "@yd_ones": {
+    "description": "Yacht Dice scoring category - Ones"
+  },
+  "yd_twos": "二点",
+  "@yd_twos": {
+    "description": "Yacht Dice scoring category - Twos"
+  },
+  "yd_threes": "三点",
+  "@yd_threes": {
+    "description": "Yacht Dice scoring category - Threes"
+  },
+  "yd_fours": "四点",
+  "@yd_fours": {
+    "description": "Yacht Dice scoring category - Fours"
+  },
+  "yd_fives": "五点",
+  "@yd_fives": {
+    "description": "Yacht Dice scoring category - Fives"
+  },
+  "yd_sixes": "六点",
+  "@yd_sixes": {
+    "description": "Yacht Dice scoring category - Sixes"
+  },
+  "yd_allSelect": "全选",
+  "@yd_allSelect": {
+    "description": "Yacht Dice scoring category - Chance (sum of all dice)"
+  },
+  "yd_fullHouse": "葫芦",
+  "@yd_fullHouse": {
+    "description": "Yacht Dice scoring category - Full House"
+  },
+  "yd_fourOfAKind": "四同",
+  "@yd_fourOfAKind": {
+    "description": "Yacht Dice scoring category - Four of a Kind"
+  },
+  "yd_smallStraight": "小顺",
+  "@yd_smallStraight": {
+    "description": "Yacht Dice scoring category - Small Straight (1-2-3-4 or 2-3-4-5 or 3-4-5-6)"
+  },
+  "yd_largeStraight": "大顺",
+  "@yd_largeStraight": {
+    "description": "Yacht Dice scoring category - Large Straight (1-2-3-4-5 or 2-3-4-5-6)"
+  },
+  "yd_yacht": "游艇",
+  "@yd_yacht": {
+    "description": "Yacht Dice scoring category - Yacht (five of a kind)"
+  },
+  "yd_onesDescription": "所有一点之和",
+  "@yd_onesDescription": {
+    "description": "Yacht Dice Ones category description"
+  },
+  "yd_twosDescription": "所有二点之和",
+  "@yd_twosDescription": {
+    "description": "Yacht Dice Twos category description"
+  },
+  "yd_threesDescription": "所有三点之和",
+  "@yd_threesDescription": {
+    "description": "Yacht Dice Threes category description"
+  },
+  "yd_foursDescription": "所有四点之和",
+  "@yd_foursDescription": {
+    "description": "Yacht Dice Fours category description"
+  },
+  "yd_fivesDescription": "所有五点之和",
+  "@yd_fivesDescription": {
+    "description": "Yacht Dice Fives category description"
+  },
+  "yd_sixesDescription": "所有六点之和",
+  "@yd_sixesDescription": {
+    "description": "Yacht Dice Sixes category description"
+  },
+  "yd_allSelectDescription": "所有骰子点数之和",
+  "@yd_allSelectDescription": {
+    "description": "Yacht Dice Chance category description"
+  },
+  "yd_fullHouseDescription": "三条加一对 - 25分",
+  "@yd_fullHouseDescription": {
+    "description": "Yacht Dice Full House category description"
+  },
+  "yd_fourOfAKindDescription": "四个骰子相同 - 所有骰子之和",
+  "@yd_fourOfAKindDescription": {
+    "description": "Yacht Dice Four of a Kind category description"
+  },
+  "yd_smallStraightDescription": "连续四个数字 - 15分",
+  "@yd_smallStraightDescription": {
+    "description": "Yacht Dice Small Straight category description"
+  },
+  "yd_largeStraightDescription": "连续五个数字 - 30分",
+  "@yd_largeStraightDescription": {
+    "description": "Yacht Dice Large Straight category description"
+  },
+  "yd_yachtDescription": "五个骰子相同 - 50分",
+  "@yd_yachtDescription": {
+    "description": "Yacht Dice Yacht category description"
+  },
+  "yd_wins": "获胜！",
+  "@yd_wins": {
+    "description": "Yacht Dice winner message"
+  },
+  "yd_draw": "平局！",
+  "@yd_draw": {
+    "description": "Yacht Dice draw message"
+  },
+
+  "settingsTitle": "设置",
+  "@settingsTitle": {
+    "description": "Settings page title"
+  },
+  "language": "语言",
+  "@language": {
+    "description": "Language setting label"
+  },
+  "english": "英文",
+  "@english": {
+    "description": "English language option"
+  },
+  "chinese": "中文",
+  "@chinese": {
+    "description": "Chinese language option"
+  },
+  "theme": "主题",
+  "@theme": {
+    "description": "Theme setting label"
+  },
+  "darkMode": "深色模式",
+  "@darkMode": {
+    "description": "Dark mode setting label"
+  },
+  "lightTheme": "浅色",
+  "@lightTheme": {
+    "description": "Light theme option"
+  },
+  "darkTheme": "深色",
+  "@darkTheme": {
+    "description": "Dark theme option"
+  },
+  "systemTheme": "跟随系统",
+  "@systemTheme": {
+    "description": "System default theme option"
+  },
+  "sound": "声音",
+  "@sound": {
+    "description": "Sound setting label"
+  },
+  "soundEnabled": "开启",
+  "@soundEnabled": {
+    "description": "Sound enabled option"
+  },
+  "soundDisabled": "关闭",
+  "@soundDisabled": {
+    "description": "Sound disabled option"
+  },
+  "difficulty": "难度",
+  "@difficulty": {
+    "description": "Difficulty setting label"
+  },
+  "easy": "简单",
+  "@easy": {
+    "description": "Easy difficulty option"
+  },
+  "normal": "普通",
+  "@normal": {
+    "description": "Normal difficulty option"
+  },
+  "hard": "困难",
+  "@hard": {
+    "description": "Hard difficulty option"
+  },
+  "fullscreen": "全屏",
+  "@fullscreen": {
+    "description": "Fullscreen setting label"
+  },
+  "fullscreenEnabled": "全屏开启",
+  "@fullscreenEnabled": {
+    "description": "Fullscreen enabled option"
+  },
+  "about": "关于",
+  "@about": {
+    "description": "About section label"
+  },
+  "version": "版本",
+  "@version": {
+    "description": "Version label"
+  },
+  "appDescription": "经典游戏合集——桌游、骰子、卡牌与益智游戏，适合所有人。",
+  "@appDescription": {
+    "description": "Application description shown in settings"
+  },
+
+  "yd_exitTitle": "退出游戏",
+  "@yd_exitTitle": {
+    "description": "Yacht Dice exit confirmation dialog title"
+  },
+  "yd_exitMessage": "退出前是否保存游戏进度？",
+  "@yd_exitMessage": {
+    "description": "Yacht Dice exit confirmation dialog message"
+  },
+  "yd_exitWithoutSaving": "不保存退出",
+  "@yd_exitWithoutSaving": {
+    "description": "Yacht Dice button to exit without saving"
+  },
+  "yd_saveAndExit": "保存并退出",
+  "@yd_saveAndExit": {
+    "description": "Yacht Dice button to save and exit"
+  },
+  "yd_resumeTitle": "继续游戏？",
+  "@yd_resumeTitle": {
+    "description": "Yacht Dice resume game dialog title"
+  },
+  "yd_resumeMessage": "您有未完成的游戏。是否继续游戏或开始新游戏？",
+  "@yd_resumeMessage": {
+    "description": "Yacht Dice resume game dialog message"
+  },
+  "yd_resumeGame": "继续游戏",
+  "@yd_resumeGame": {
+    "description": "Yacht Dice button to resume saved game"
+  },
+  "yd_startNewGame": "开始新游戏",
+  "@yd_startNewGame": {
+    "description": "Yacht Dice button to start new game (delete save)"
+  },
+  "yd_tapToKeep": "点击骰子保留/释放",
+  "@yd_tapToKeep": {
+    "description": "Yacht Dice hint text for keeping dice"
+  },
+
+  "game_guess_arrangement": "猜排列",
+  "@game_guess_arrangement": {
+    "description": "Guess Arrangement game title"
+  },
+  "ga_gameDescription": "猜测对手隐藏的牌面，考验你的推理能力！",
+  "@ga_gameDescription": {
+    "description": "Guess Arrangement game description"
+  },
+  "ga_twoPlayers": "双人对战",
+  "@ga_twoPlayers": {
+    "description": "2 player mode button"
+  },
+  "ga_easyAI": "简单AI",
+  "@ga_easyAI": {
+    "description": "Easy AI mode button"
+  },
+  "ga_mediumAI": "中等AI",
+  "@ga_mediumAI": {
+    "description": "Medium AI mode button"
+  },
+  "ga_hardAI": "困难AI",
+  "@ga_hardAI": {
+    "description": "Hard AI mode button"
+  },
+  "ga_howToPlay": "游戏规则",
+  "@ga_howToPlay": {
+    "description": "How to play button"
+  },
+  "ga_correct": "猜对了！",
+  "@ga_correct": {
+    "description": "Correct guess message"
+  },
+  "ga_wrongGuess": "猜错了",
+  "@ga_wrongGuess": {
+    "description": "Wrong guess message"
+  },
+  "ga_switchTurns": "交换回合",
+  "@ga_switchTurns": {
+    "description": "Switch turns dialog title"
+  },
+  "ga_readyToPlay": "准备好了",
+  "@ga_readyToPlay": {
+    "description": "Ready to play button after turn switch"
+  },
+  "ga_youWin": "你赢了！",
+  "@ga_youWin": {
+    "description": "Win message"
+  },
+  "ga_aiWins": "AI赢了！",
+  "@ga_aiWins": {
+    "description": "AI wins message"
+  },
+  "ga_playAgain": "再玩一次",
+  "@ga_playAgain": {
+    "description": "Play again button"
+  },
+  "ga_exit": "退出",
+  "@ga_exit": {
+    "description": "Exit button"
+  },
+  "ga_round": "回合",
+  "@ga_round": {
+    "description": "Round label"
+  },
+  "ga_turn": "轮次",
+  "@ga_turn": {
+    "description": "Turn label"
+  },
+  "ga_combo": "连击",
+  "@ga_combo": {
+    "description": "Combo label"
+  },
+  "ga_dealing": "发牌中...",
+  "@ga_dealing": {
+    "description": "Dealing cards message"
+  },
+  "ga_aiThinking": "AI思考中...",
+  "@ga_aiThinking": {
+    "description": "AI thinking message"
+  },
+  "ga_position": "位置",
+  "@ga_position": {
+    "description": "Position label"
+  },
+  "ga_yourTurn": "你的回合！",
+  "@ga_yourTurn": {
+    "description": "Your turn message"
+  },
+  "ga_opponentTurn": "对手回合",
+  "@ga_opponentTurn": {
+    "description": "Opponent's turn message"
+  },
+  "ga_cardsRemaining": "剩余牌数",
+  "@ga_cardsRemaining": {
+    "description": "Cards remaining label"
+  },
+  "ga_selectGameMode": "选择游戏模式",
+  "@ga_selectGameMode": {
+    "description": "Select game mode label"
+  },
+  "ga_gotIt": "明白了！",
+  "@ga_gotIt": {
+    "description": "Got it button"
+  },
+  "ga_playerCards": "{name}的牌",
+  "@ga_playerCards": {
+    "description": "Player's cards label with placeholder",
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "ga_yourCards": "你的牌",
+  "@ga_yourCards": {
+    "description": "Your cards label"
+  },
+  "ga_tapToGuess": "点击牌来猜测",
+  "@ga_tapToGuess": {
+    "description": "Hint to tap card"
+  },
+  "ga_positionSelected": "已选择位置 {position} - 请在下方选择数字",
+  "@ga_positionSelected": {
+    "description": "Position selected message with placeholder",
+    "placeholders": {
+      "position": {
+        "type": "int"
+      }
+    }
+  },
+  "ga_selectNumber": "选择数字 (A-K)",
+  "@ga_selectNumber": {
+    "description": "Select number label"
+  },
+  "ga_guessCorrect": "猜对了！{card}",
+  "@ga_guessCorrect": {
+    "description": "Correct guess message with card placeholder",
+    "placeholders": {
+      "card": {
+        "type": "String"
+      }
+    }
+  },
+  "ga_guessCorrectCombo": "猜对了！{card} 连击 x{combo}",
+  "@ga_guessCorrectCombo": {
+    "description": "Correct guess message with combo",
+    "placeholders": {
+      "card": {
+        "type": "String"
+      },
+      "combo": {
+        "type": "int"
+      }
+    }
+  },
+  "ga_comboLabel": "连击 x{n}",
+  "@ga_comboLabel": {
+    "description": "Combo label with number",
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "ga_clearSelection": "清除选择",
+  "@ga_clearSelection": {
+    "description": "Clear selection button"
+  },
+  "ga_endTurn": "结束回合",
+  "@ga_endTurn": {
+    "description": "End turn button"
+  },
+  "ga_exitGameTitle": "退出游戏？",
+  "@ga_exitGameTitle": {
+    "description": "Exit game dialog title"
+  },
+  "ga_exitGameMessage": "确定要退出吗？当前进度将丢失。",
+  "@ga_exitGameMessage": {
+    "description": "Exit game dialog message"
+  },
+  "ga_restartGameTitle": "重新开始？",
+  "@ga_restartGameTitle": {
+    "description": "Restart game dialog title"
+  },
+  "ga_restartGameMessage": "确定要重新开始游戏吗？",
+  "@ga_restartGameMessage": {
+    "description": "Restart game dialog message"
+  },
+  "ga_restart": "重新开始",
+  "@ga_restart": {
+    "description": "Restart button"
+  },
+  "ga_aiGuessing": "AI猜测: 位置{position} 是 {rank}",
+  "@ga_aiGuessing": {
+    "description": "AI guessing message with placeholders",
+    "placeholders": {
+      "position": {
+        "type": "int"
+      },
+      "rank": {
+        "type": "String"
+      }
+    }
+  },
+  "ga_rule1Title": "1. 发牌",
+  "@ga_rule1Title": {
+    "description": "Rule 1 title"
+  },
+  "ga_rule1Desc": "每位玩家从52张牌中抽取8张，按从小到大（A=1最小，K=13最大）面朝下排列。",
+  "@ga_rule1Desc": {
+    "description": "Rule 1 description"
+  },
+  "ga_rule2Title": "2. 猜测",
+  "@ga_rule2Title": {
+    "description": "Rule 2 title"
+  },
+  "ga_rule2Desc": "双方轮流猜对方的牌。例如：\"第3张是7\"。只需猜数字，不用猜花色。",
+  "@ga_rule2Desc": {
+    "description": "Rule 2 description"
+  },
+  "ga_rule3Title": "3. 猜对",
+  "@ga_rule3Title": {
+    "description": "Rule 3 title"
+  },
+  "ga_rule3Desc": "翻开对方的牌！你可以继续猜测，连击数+1。",
+  "@ga_rule3Desc": {
+    "description": "Rule 3 description"
+  },
+  "ga_rule4Title": "4. 猜错",
+  "@ga_rule4Title": {
+    "description": "Rule 4 title"
+  },
+  "ga_rule4Desc": "轮到对方猜测。你的连击数重置。",
+  "@ga_rule4Desc": {
+    "description": "Rule 4 description"
+  },
+  "ga_rule5Title": "5. 胜负",
+  "@ga_rule5Title": {
+    "description": "Rule 5 title"
+  },
+  "ga_rule5Desc": "谁的牌先被全部翻开，谁就输了！",
+  "@ga_rule5Desc": {
+    "description": "Rule 5 description"
+  },
+  "ga_winnerPlayer": "你",
+  "@ga_winnerPlayer": {
+    "description": "Winner label for player"
+  },
+  "ga_winnerOpponent": "对手",
+  "@ga_winnerOpponent": {
+    "description": "Winner label for opponent"
+  },
+  "ga_aiWrongGuess": "AI猜错了！",
+  "@ga_aiWrongGuess": {
+    "description": "AI wrong guess message"
+  },
+  "ga_wrongGuessTitle": "猜错了！",
+  "@ga_wrongGuessTitle": {
+    "description": "Wrong guess title"
+  },
+  "ga_turnToYou": "轮到你了！",
+  "@ga_turnToYou": {
+    "description": "Turn to player message"
+  },
+  "ga_turnToOpponent": "换对方回合了。",
+  "@ga_turnToOpponent": {
+    "description": "Turn to opponent message"
+  },
+  "ga_continue": "继续",
+  "@ga_continue": {
+    "description": "Continue button"
+  },
+  "ga_aiRoundEnd": "AI回合结束",
+  "@ga_aiRoundEnd": {
+    "description": "AI round end title"
+  },
+  "ga_aiCorrectCount": "AI猜对了 {correct}/{total} 次",
+  "@ga_aiCorrectCount": {
+    "description": "AI correct guess count",
+    "placeholders": {
+      "correct": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "ga_positionLabel": "位置{n}",
+  "@ga_positionLabel": {
+    "description": "Position label with number",
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "ga_switchTurnHint": "请将设备交给{name}。\n记得隐藏你的牌！",
+  "@ga_switchTurnHint": {
+    "description": "Switch turn hint message",
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "ga_winnerWins": "{name}赢了！",
+  "@ga_winnerWins": {
+    "description": "Winner wins message",
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "ga_winnerLoses": "{name}赢了...",
+  "@ga_winnerLoses": {
+    "description": "Opponent wins message",
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "ga_correctGuessesLabel": "正确猜测",
+  "@ga_correctGuessesLabel": {
+    "description": "Correct guesses label"
+  },
+  "ga_maxComboLabel": "最高连击",
+  "@ga_maxComboLabel": {
+    "description": "Max combo label"
+  },
+  "ga_playDurationLabel": "用时",
+  "@ga_playDurationLabel": {
+    "description": "Play duration label"
+  },
+  "ga_playAgainButton": "再来一局",
+  "@ga_playAgainButton": {
+    "description": "Play again button in game over"
+  },
+  "ga_durationFormat": "{minutes}分{seconds}秒",
+  "@ga_durationFormat": {
+    "description": "Duration format",
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      },
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+
+  "game_2048": "2048",
+  "@game_2048": {
+    "description": "2048 game title"
+  },
+  "t48_gameDescription": "合并方块，达到2048！",
+  "@t48_gameDescription": {
+    "description": "2048 game description"
+  },
+  "t48_instructions": "滑动或使用方向键/WASD移动方块。相同数字的方块相撞时会合并。尝试达到2048！",
+  "@t48_instructions": {
+    "description": "2048 game instructions"
+  },
+  "t48_newGame": "新游戏",
+  "@t48_newGame": {
+    "description": "2048 new game button"
+  },
+  "t48_continue": "继续游戏",
+  "@t48_continue": {
+    "description": "2048 continue button"
+  },
+  "t48_loadGame": "读取游戏",
+  "@t48_loadGame": {
+    "description": "2048 load game button"
+  },
+  "t48_saveGame": "保存游戏",
+  "@t48_saveGame": {
+    "description": "2048 save game button"
+  },
+  "t48_saveSlot": "存档 {n}",
+  "@t48_saveSlot": {
+    "description": "2048 save slot label with placeholder",
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "t48_emptySlot": "空存档",
+  "@t48_emptySlot": {
+    "description": "2048 empty save slot"
+  },
+  "t48_maxTile": "最大方块",
+  "@t48_maxTile": {
+    "description": "2048 max tile label"
+  },
+  "t48_elapsedTime": "用时",
+  "@t48_elapsedTime": {
+    "description": "2048 elapsed time label"
+  },
+  "t48_exitTitle": "退出游戏",
+  "@t48_exitTitle": {
+    "description": "2048 exit confirmation dialog title"
+  },
+  "t48_exitMessage": "退出前是否保存游戏进度？",
+  "@t48_exitMessage": {
+    "description": "2048 exit confirmation dialog message"
+  },
+  "t48_exitWithoutSaving": "不保存退出",
+  "@t48_exitWithoutSaving": {
+    "description": "2048 button to exit without saving"
+  },
+  "t48_saveAndExit": "保存并退出",
+  "@t48_saveAndExit": {
+    "description": "2048 button to save and exit"
+  },
+  "t48_gameOver": "游戏结束！",
+  "@t48_gameOver": {
+    "description": "2048 game over message"
+  },
+  "t48_youWon": "你赢了！",
+  "@t48_youWon": {
+    "description": "2048 win message"
+  },
+  "t48_playAgain": "再玩一次",
+  "@t48_playAgain": {
+    "description": "2048 play again button"
+  },
+  "t48_savedAt": "保存时间：{time}",
+  "@t48_savedAt": {
+    "description": "2048 saved time label",
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "t48_selectSlot": "选择存档位置",
+  "@t48_selectSlot": {
+    "description": "2048 select save slot message"
+  },
+  "t48_noSaves": "没有存档",
+  "@t48_noSaves": {
+    "description": "2048 no saves message"
+  },
+  "t48_delete": "删除",
+  "@t48_delete": {
+    "description": "2048 delete save button"
+  },
+  "t48_overwrite": "覆盖",
+  "@t48_overwrite": {
+    "description": "2048 overwrite save button"
+  },
+  "t48_autoSave": "自动保存",
+  "@t48_autoSave": {
+    "description": "2048 auto-save slot label"
+  },
+  "t48_overwriteConfirm": "该存档位已有存档，是否覆盖？",
+  "@t48_overwriteConfirm": {
+    "description": "2048 overwrite confirmation message"
+  },
+  "t48_savedSuccessfully": "游戏已保存！",
+  "@t48_savedSuccessfully": {
+    "description": "2048 game saved success message"
+  },
+  "t48_autoSaveInfo": "游戏进行时每3分钟自动保存",
+  "@t48_autoSaveInfo": {
+    "description": "2048 auto-save info tooltip"
+  },
+
+  "game_mancala": "播棋",
+  "@game_mancala": {
+    "description": "Mancala game title"
+  },
+  "mc_gameDescription": "在这个古老的策略游戏中收集比对手更多的种子！",
+  "@mc_gameDescription": {
+    "description": "Mancala game description"
+  },
+  "mc_instructions": "从你的一个坑中取出所有种子，逆时针播撒。落入你的大坑可再玩一次。落入你的空坑可捕获对面坑中的种子！",
+  "@mc_instructions": {
+    "description": "Mancala game instructions"
+  },
+  "mc_twoPlayers": "双人对战",
+  "@mc_twoPlayers": {
+    "description": "2 player mode button"
+  },
+  "mc_easyAI": "简单AI",
+  "@mc_easyAI": {
+    "description": "Easy AI mode button"
+  },
+  "mc_mediumAI": "中等AI",
+  "@mc_mediumAI": {
+    "description": "Medium AI mode button"
+  },
+  "mc_hardAI": "困难AI",
+  "@mc_hardAI": {
+    "description": "Hard AI mode button"
+  },
+  "mc_howToPlay": "游戏规则",
+  "@mc_howToPlay": {
+    "description": "How to play button"
+  },
+  "mc_yourTurn": "你的回合",
+  "@mc_yourTurn": {
+    "description": "Your turn label"
+  },
+  "mc_opponentTurn": "对手回合",
+  "@mc_opponentTurn": {
+    "description": "Opponent's turn label"
+  },
+  "mc_playerStore": "你的大坑",
+  "@mc_playerStore": {
+    "description": "Player's store label"
+  },
+  "mc_opponentStore": "对手大坑",
+  "@mc_opponentStore": {
+    "description": "Opponent's store label"
+  },
+  "mc_youWin": "你赢了！",
+  "@mc_youWin": {
+    "description": "Win message"
+  },
+  "mc_youLose": "你输了！",
+  "@mc_youLose": {
+    "description": "Lose message"
+  },
+  "mc_aiWins": "AI赢了！",
+  "@mc_aiWins": {
+    "description": "AI wins message"
+  },
+  "mc_draw": "平局！",
+  "@mc_draw": {
+    "description": "Draw message"
+  },
+  "mc_playAgain": "再玩一次",
+  "@mc_playAgain": {
+    "description": "Play again button"
+  },
+  "mc_exit": "退出",
+  "@mc_exit": {
+    "description": "Exit button"
+  },
+  "mc_selectPit": "点击坑位播种",
+  "@mc_selectPit": {
+    "description": "Hint to select a pit"
+  },
+  "mc_gameSaved": "游戏已保存",
+  "@mc_gameSaved": {
+    "description": "Game saved message"
+  },
+  "mc_extraTurn": "再来一次！",
+  "@mc_extraTurn": {
+    "description": "Extra turn message"
+  },
+  "mc_captured": "捕获！",
+  "@mc_captured": {
+    "description": "Capture message"
+  },
+  "colorScheme": "配色方案",
+  "@colorScheme": {
+    "description": "Color scheme setting label"
+  },
+  "woodenScheme": "木质风格",
+  "@woodenScheme": {
+    "description": "Wooden color scheme option"
+  },
+  "starlightScheme": "星空风格",
+  "@starlightScheme": {
+    "description": "Starlight color scheme option"
+  },
+  "forestScheme": "森林风格",
+  "@forestScheme": {
+    "description": "Forest color scheme option"
+  },
+  "volcanoScheme": "火山风格",
+  "@volcanoScheme": {
+    "description": "Volcano color scheme option"
+  },
+  "einkScheme": "墨水屏",
+  "@einkScheme": {
+    "description": "E-Ink grayscale color scheme option for e-ink displays"
+  },
+  "hearts_game_hearts": "红心大战",
+  "@hearts_game_hearts": { "description": "Hearts game title" },
+  "hearts_description": "避开红心和黑桃皇后！",
+  "@hearts_description": { "description": "Hearts game description" },
+  "hearts_howToPlay": "游戏规则",
+  "@hearts_howToPlay": { "description": "How to play button" },
+  "hearts_startGame": "开始游戏",
+  "@hearts_startGame": { "description": "Start game button" },
+  "hearts_playAgain": "再来一局",
+  "@hearts_playAgain": { "description": "Play again button" },
+  "hearts_dealing": "发牌中...",
+  "@hearts_dealing": { "description": "Dealing cards message" },
+  "hearts_passing": "传牌阶段",
+  "@hearts_passing": { "description": "Pass phase label" },
+  "hearts_playing": "游戏中",
+  "@hearts_playing": { "description": "Playing status" },
+  "hearts_roundEnd": "本局结束",
+  "@hearts_roundEnd": { "description": "Round end label" },
+  "hearts_gameOver": "游戏结束",
+  "@hearts_gameOver": { "description": "Game over label" },
+  "hearts_aiThinking": "AI思考中...",
+  "@hearts_aiThinking": { "description": "AI thinking message" },
+  "hearts_passDirection": "传牌方向",
+  "@hearts_passDirection": { "description": "Pass direction label" },
+  "hearts_passLeft": "向左传",
+  "@hearts_passLeft": { "description": "Pass left direction" },
+  "hearts_passRight": "向右传",
+  "@hearts_passRight": { "description": "Pass right direction" },
+  "hearts_passAcross": "向对面传",
+  "@hearts_passAcross": { "description": "Pass across direction" },
+  "hearts_passHold": "不传牌",
+  "@hearts_passHold": { "description": "Hold (no pass) option" },
+  "hearts_selectCardsToPass": "选择{n}张牌传递",
+  "@hearts_selectCardsToPass": {
+    "description": "Select cards to pass instruction",
+    "placeholders": { "n": { "type": "int" } }
+  },
+  "hearts_passTimer": "剩余时间: {s}秒",
+  "@hearts_passTimer": {
+    "description": "Pass timer display",
+    "placeholders": { "s": { "type": "int" } }
+  },
+  "hearts_confirmPass": "确认传牌",
+  "@hearts_confirmPass": { "description": "Confirm pass button" },
+  "hearts_timerUnlimited": "无限时",
+  "@hearts_timerUnlimited": { "description": "Unlimited timer option" },
+  "hearts_timer15s": "15秒",
+  "@hearts_timer15s": { "description": "15 second timer option" },
+  "hearts_timer20s": "20秒",
+  "@hearts_timer20s": { "description": "20 second timer option" },
+  "hearts_timer30s": "30秒",
+  "@hearts_timer30s": { "description": "30 second timer option" },
+  "hearts_yourTurn": "你的回合！",
+  "@hearts_yourTurn": { "description": "Your turn message" },
+  "hearts_waitTurn": "等待对手...",
+  "@hearts_waitTurn": { "description": "Waiting for opponent message" },
+  "hearts_heartsBroken": "红心已破！",
+  "@hearts_heartsBroken": { "description": "Hearts broken message" },
+  "hearts_firstTrick": "第一墩 - 梅花2先出",
+  "@hearts_firstTrick": { "description": "First trick instruction" },
+  "hearts_trickWon": "{player}赢得此墩",
+  "@hearts_trickWon": {
+    "description": "Trick won message",
+    "placeholders": { "player": { "type": "String" } }
+  },
+  "hearts_roundScores": "本局得分",
+  "@hearts_roundScores": { "description": "Round scores label" },
+  "hearts_totalScores": "总得分",
+  "@hearts_totalScores": { "description": "Total scores label" },
+  "hearts_pointsTaken": "得分",
+  "@hearts_pointsTaken": { "description": "Points taken label" },
+  "hearts_heartsCount": "红心: {n}张",
+  "@hearts_heartsCount": {
+    "description": "Hearts count display",
+    "placeholders": { "n": { "type": "int" } }
+  },
+  "hearts_shootMoon": "全收！",
+  "@hearts_shootMoon": { "description": "Shoot the moon message" },
+  "hearts_shootMoonSuccess": "成功全收！",
+  "@hearts_shootMoonSuccess": { "description": "Shoot moon success message" },
+  "hearts_announceMoonOption": "声明全收意图",
+  "@hearts_announceMoonOption": { "description": "Announce moon option" },
+  "hearts_hideMoonOption": "隐藏全收意图",
+  "@hearts_hideMoonOption": { "description": "Hide moon option" },
+  "hearts_player": "玩家{n}",
+  "@hearts_player": {
+    "description": "Player number with placeholder",
+    "placeholders": { "n": { "type": "int" } }
+  },
+  "hearts_you": "你",
+  "@hearts_you": { "description": "Player you label" },
+  "hearts_winner": "获胜者",
+  "@hearts_winner": { "description": "Winner label" },
+  "hearts_finalResults": "最终结果",
+  "@hearts_finalResults": { "description": "Final results label" },
+  "hearts_rule1Title": "1. 目标",
+  "@hearts_rule1Title": { "description": "Rule 1 title" },
+  "hearts_rule1Desc": "避开红心（每张♥=1分）和黑桃皇后（♠Q=13分）。得分最低者获胜！",
+  "@hearts_rule1Desc": { "description": "Rule 1 description" },
+  "hearts_rule2Title": "2. 传牌",
+  "@hearts_rule2Title": { "description": "Rule 2 title" },
+  "hearts_rule2Desc": "每局开始前传3张牌：左→右→对面→不传，每4局循环一次。",
+  "@hearts_rule2Desc": { "description": "Rule 2 description" },
+  "hearts_rule3Title": "3. 出牌",
+  "@hearts_rule3Title": { "description": "Rule 3 title" },
+  "hearts_rule3Desc": "拥有梅花2的玩家先出。必须跟花色（如有）。红心未破前不能先出红心。",
+  "@hearts_rule3Desc": { "description": "Rule 3 description" },
+  "hearts_rule4Title": "4. 计分",
+  "@hearts_rule4Title": { "description": "Rule 4 title" },
+  "hearts_rule4Desc": "收集全部14张罚分牌=全收（你得0分，其他各得26分）。任一玩家达到100分时游戏结束。",
+  "@hearts_rule4Desc": { "description": "Rule 4 description" },
+  "hearts_rule5Title": "5. 胜利",
+  "@hearts_rule5Title": { "description": "Rule 5 title" },
+  "hearts_rule5Desc": "游戏结束时总得分最低者获胜！",
+  "@hearts_rule5Desc": { "description": "Rule 5 description" },
+  "hearts_resume": "继续",
+  "@hearts_resume": { "description": "Resume button" },
+  "hearts_saveGame": "保存游戏",
+  "@hearts_saveGame": { "description": "Save game button" },
+  "hearts_loadGame": "加载游戏",
+  "@hearts_loadGame": { "description": "Load game button" },
+  "hearts_newGame": "新游戏",
+  "@hearts_newGame": { "description": "New game button" },
+  "hearts_exitGame": "退出",
+  "@hearts_exitGame": { "description": "Exit button" },
+  "hearts_aiDifficulty": "AI难度",
+  "@hearts_aiDifficulty": { "description": "AI difficulty setting" },
+  "hearts_randomPosition": "随机玩家位置",
+  "@hearts_randomPosition": { "description": "Random position setting" },
+  "hearts_passTimerSetting": "传牌计时",
+  "@hearts_passTimerSetting": { "description": "Pass timer setting" },
+  "hearts_passComplete": "传牌完成",
+  "@hearts_passComplete": { "description": "Pass complete dialog title" },
+  "hearts_receivedCards": "你收到了这些牌：",
+  "@hearts_receivedCards": { "description": "Received cards dialog message" },
+  "hearts_continuePlaying": "继续",
+  "@hearts_continuePlaying": { "description": "Continue button after showing received cards" },
+  "comingSoon": "即将推出",
+  "@comingSoon": { "description": "Coming soon text" },
+
+  "game_bluff_bar": "吹牛酒吧",
+  "@game_bluff_bar": {
+    "description": "Bluff Bar game title"
+  },
+  "bb_game_title": "吹牛酒吧",
+  "@bb_game_title": {
+    "description": "Bluff Bar game title displayed in game"
+  },
+  "bb_game_subtitle": "虚张声势，挑战，生存",
+  "@bb_game_subtitle": {
+    "description": "Bluff Bar game subtitle"
+  },
+  "bb_gameDescription": "扑克风格的虚张声势游戏，带有俄罗斯轮盘淘汰机制",
+  "@bb_gameDescription": {
+    "description": "Bluff Bar game description"
+  },
+
+  "bb_phase_setup": "设置阶段",
+  "@bb_phase_setup": {
+    "description": "Setup phase label"
+  },
+  "bb_phase_deal": "发牌阶段",
+  "@bb_phase_deal": {
+    "description": "Dealing phase label"
+  },
+  "bb_phase_play": "出牌阶段",
+  "@bb_phase_play": {
+    "description": "Play phase label"
+  },
+  "bb_phase_challenge": "质疑阶段",
+  "@bb_phase_challenge": {
+    "description": "Challenge phase label"
+  },
+  "bb_phase_reveal": "翻牌阶段",
+  "@bb_phase_reveal": {
+    "description": "Reveal phase label"
+  },
+  "bb_phase_roulette": "俄罗斯轮盘",
+  "@bb_phase_roulette": {
+    "description": "Russian roulette phase label"
+  },
+  "bb_phase_roundEnd": "本轮结束",
+  "@bb_phase_roundEnd": {
+    "description": "Round end phase label"
+  },
+  "bb_phase_gameOver": "游戏结束",
+  "@bb_phase_gameOver": {
+    "description": "Game over phase label"
+  },
+
+  "bb_target_card": "目标牌",
+  "@bb_target_card": {
+    "description": "Target card label"
+  },
+  "bb_target_jacks": "本轮目标：J",
+  "@bb_target_jacks": {
+    "description": "Jack is the target card"
+  },
+  "bb_target_queens": "本轮目标：Q",
+  "@bb_target_queens": {
+    "description": "Queen is the target card"
+  },
+  "bb_target_kings": "本轮目标：K",
+  "@bb_target_kings": {
+    "description": "King is the target card"
+  },
+  "bb_target_aces": "本轮目标：A",
+  "@bb_target_aces": {
+    "description": "Ace is the target card"
+  },
+
+  "bb_play_cards": "出牌",
+  "@bb_play_cards": {
+    "description": "Play cards button"
+  },
+  "bb_challenge": "质疑！",
+  "@bb_challenge": {
+    "description": "Challenge button"
+  },
+  "bb_pass": "跳过",
+  "@bb_pass": {
+    "description": "Pass button"
+  },
+  "bb_select_cards": "选择牌",
+  "@bb_select_cards": {
+    "description": "Select cards label"
+  },
+
+  "bb_claim": "声称",
+  "@bb_claim": {
+    "description": "Claim label"
+  },
+  "bb_claiming": "{count}张{rank}",
+  "@bb_claiming": {
+    "description": "Claiming message with count and rank placeholders",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      },
+      "rank": {
+        "type": "String"
+      }
+    }
+  },
+  "bb_cards_played": "已出{count}张牌",
+  "@bb_cards_played": {
+    "description": "Cards played message with count placeholder",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+
+  "bb_challenge_successful": "质疑成功！",
+  "@bb_challenge_successful": {
+    "description": "Challenge successful message"
+  },
+  "bb_challenge_failed": "质疑失败",
+  "@bb_challenge_failed": {
+    "description": "Challenge failed message"
+  },
+  "bb_liar_guilty": "抓到骗子！",
+  "@bb_liar_guilty": {
+    "description": "Liar caught message"
+  },
+  "bb_liar_innocent": "真诚出牌！",
+  "@bb_liar_innocent": {
+    "description": "Honest play message"
+  },
+
+  "bb_roulette_draw": "翻开轮盘牌",
+  "@bb_roulette_draw": {
+    "description": "Draw roulette card button"
+  },
+  "bb_roulette_survived": "生存！",
+  "@bb_roulette_survived": {
+    "description": "Survived roulette message"
+  },
+  "bb_roulette_eliminated": "淘汰！",
+  "@bb_roulette_eliminated": {
+    "description": "Eliminated by roulette message"
+  },
+  "bb_roulette_remaining": "剩余{count}张牌",
+  "@bb_roulette_remaining": {
+    "description": "Roulette cards remaining message with count placeholder",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+
+  "bb_your_turn": "你的回合",
+  "@bb_your_turn": {
+    "description": "Your turn message"
+  },
+  "bb_opponent_turn": "对手回合",
+  "@bb_opponent_turn": {
+    "description": "Opponent's turn message"
+  },
+  "bb_cards_in_hand": "手中有{count}张牌",
+  "@bb_cards_in_hand": {
+    "description": "Cards in hand message with count placeholder",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "bb_eliminated_player": "已淘汰",
+  "@bb_eliminated_player": {
+    "description": "Eliminated player label"
+  },
+
+  "bb_ai_thinking": "AI思考中...",
+  "@bb_ai_thinking": {
+    "description": "AI thinking message"
+  },
+  "bb_ai_playing": "AI出牌...",
+  "@bb_ai_playing": {
+    "description": "AI playing message"
+  },
+  "bb_ai_challenging": "AI质疑！",
+  "@bb_ai_challenging": {
+    "description": "AI challenges message"
+  },
+
+  "bb_winner": "{name}获胜！",
+  "@bb_winner": {
+    "description": "Winner message with name placeholder",
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "bb_last_survivor": "最后幸存者",
+  "@bb_last_survivor": {
+    "description": "Last survivor label"
+  },
+  "bb_play_again": "再玩一次",
+  "@bb_play_again": {
+    "description": "Play again button"
+  },
+  "bb_exit": "退出",
+  "@bb_exit": {
+    "description": "Exit button"
+  },
+
+  "bb_ai_difficulty": "AI难度",
+  "@bb_ai_difficulty": {
+    "description": "AI difficulty setting label"
+  },
+  "bb_easy": "简单",
+  "@bb_easy": {
+    "description": "Easy difficulty option"
+  },
+  "bb_medium": "中等",
+  "@bb_medium": {
+    "description": "Medium difficulty option"
+  },
+  "bb_hard": "困难",
+  "@bb_hard": {
+    "description": "Hard difficulty option"
+  },
+  "bb_start_game": "开始游戏",
+  "@bb_start_game": {
+    "description": "Start game button"
+  },
+  "bb_how_to_play": "游戏规则",
+  "@bb_how_to_play": {
+    "description": "How to play button"
+  },
+
+  "bb_rule1_title": "1. 目标牌",
+  "@bb_rule1_title": {
+    "description": "Rule 1 title"
+  },
+  "bb_rule1_desc": "每轮随机指定J/Q/K/A为目标牌，该牌及Joker视为\"真牌\"",
+  "@bb_rule1_desc": {
+    "description": "Rule 1 description"
+  },
+  "bb_rule2_title": "2. 出牌",
+  "@bb_rule2_title": {
+    "description": "Rule 2 title"
+  },
+  "bb_rule2_desc": "每回合打出1-5张牌背面朝上，声称是目标牌",
+  "@bb_rule2_desc": {
+    "description": "Rule 2 description"
+  },
+  "bb_rule3_title": "3. 质疑",
+  "@bb_rule3_title": {
+    "description": "Rule 3 title"
+  },
+  "bb_rule3_desc": "喊\"骗子\"质疑上家，翻开验证：假牌则上家输，真牌则质疑者输",
+  "@bb_rule3_desc": {
+    "description": "Rule 3 description"
+  },
+  "bb_rule4_title": "4. 淘汰",
+  "@bb_rule4_title": {
+    "description": "Rule 4 title"
+  },
+  "bb_rule4_desc": "输家触发俄罗斯轮盘：翻一张牌，实弹则淘汰",
+  "@bb_rule4_desc": {
+    "description": "Rule 4 description"
+  },
+  "bb_rule5_title": "5. 胜利",
+  "@bb_rule5_title": {
+    "description": "Rule 5 title"
+  },
+  "bb_rule5_desc": "成为最后存活的玩家",
+  "@bb_rule5_desc": {
+    "description": "Rule 5 description"
+  },
+
+  "bb_got_it": "明白了！",
+  "@bb_got_it": {
+    "description": "Got it button"
+  },
+  "bb_two_players": "双人对战",
+  "@bb_two_players": {
+    "description": "2 player mode button"
+  },
+  "bb_vs_ai": "人机对战",
+  "@bb_vs_ai": {
+    "description": "VS AI mode button"
+  },
+
+  "bb_eliminated": "已淘汰",
+  "@bb_eliminated": {
+    "description": "Eliminated status badge"
+  },
+  "bb_survived": "生存！",
+  "@bb_survived": {
+    "description": "Survived status message"
+  },
+  "bb_draw_card": "翻开轮盘牌",
+  "@bb_draw_card": {
+    "description": "Draw card button for roulette"
+  },
+  "bb_drawing": "正在翻开...",
+  "@bb_drawing": {
+    "description": "Drawing status text"
+  },
+  "bb_cards_remaining": "剩余 {count} 张牌",
+  "@bb_cards_remaining": {
+    "description": "Cards remaining text",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "bb_no_cards_played": "尚未出牌",
+  "@bb_no_cards_played": {
+    "description": "Empty played pile message"
+  },
+  "bb_cards_played_total": "已出 {count} 张牌",
+  "@bb_cards_played_total": {
+    "description": "Total cards played text",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "bb_no_cards": "无手牌",
+  "@bb_no_cards": {
+    "description": "Empty hand message"
+  },
+  "bb_one_player_three_ai": "1名玩家 + 3名AI",
+  "@bb_one_player_three_ai": {
+    "description": "Game mode description"
+  },
+  "bb_exit_confirm": "确定退出吗？游戏进度将丢失。",
+  "@bb_exit_confirm": {
+    "description": "Exit confirmation message"
+  },
+  "bb_round": "第 {number} 轮",
+  "@bb_round": {
+    "description": "Round number display",
+    "placeholders": {
+      "number": {
+        "type": "int"
+      }
+    }
+  },
+  "bb_round_ranking": "第 {number} 轮排名",
+  "@bb_round_ranking": {
+    "description": "Round ranking title",
+    "placeholders": {
+      "number": {
+        "type": "int"
+      }
+    }
+  },
+  "bb_roulette_shots": "已开枪",
+  "@bb_roulette_shots": {
+    "description": "Roulette shots label"
+  },
+  "bb_select_claim": "选择声称的点数",
+  "@bb_select_claim": {
+    "description": "Claim selection hint"
+  },
+  "bb_your_hand": "你的手牌",
+  "@bb_your_hand": {
+    "description": "Hand section title"
+  },
+  "bb_waiting_for": "等待 {name}...",
+  "@bb_waiting_for": {
+    "description": "Waiting for opponent message",
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "bb_game_screen_coming": "游戏页面即将推出！",
+  "@bb_game_screen_coming": {
+    "description": "Placeholder message"
+  },
+  "bb_position_north": "北",
+  "@bb_position_north": {
+    "description": "North position"
+  },
+  "bb_position_south": "南",
+  "@bb_position_south": {
+    "description": "South position"
+  },
+  "bb_position_east": "东",
+  "@bb_position_east": {
+    "description": "East position"
+  },
+  "bb_position_west": "西",
+  "@bb_position_west": {
+    "description": "West position"
+  },
+  "bb_challenge_title": "{challenger} 质疑 {challenged}",
+  "@bb_challenge_title": {
+    "description": "Challenge overlay title with challenger and challenged player names",
+    "placeholders": {
+      "challenger": {
+        "type": "String"
+      },
+      "challenged": {
+        "type": "String"
+      }
+    }
+  },
+  "bb_revealed_cards": "翻开的牌",
+  "@bb_revealed_cards": {
+    "description": "Label for revealed cards section in challenge overlay"
+  },
+  "bb_liar": "骗子！",
+  "@bb_liar": {
+    "description": "Challenge result - player was lying"
+  },
+  "bb_honest": "真诚！",
+  "@bb_honest": {
+    "description": "Challenge result - player was telling truth"
+  },
+  "bb_face_roulette": "开枪",
+  "@bb_face_roulette": {
+    "description": "Label indicating player must face Russian roulette"
+  },
+  "bb_victory": "胜利",
+  "@bb_victory": {
+    "description": "Victory result text"
+  },
+  "bb_defeat": "失败",
+  "@bb_defeat": {
+    "description": "Defeat result text"
+  },
+  "bb_ranking": "排名",
+  "@bb_ranking": {
+    "description": "Rankings section title"
+  },
+  "bb_rounds_survived": "存活 {count} 轮",
+  "@bb_rounds_survived": {
+    "description": "Rounds survived text",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "bb_play_again": "再来一次",
+  "@bb_play_again": {
+    "description": "Play again button"
+  },
+
+  "game_reaction_test": "反应力测试",
+  "@game_reaction_test": {
+    "description": "Reaction Test game title"
+  },
+  "rt_gameDescription": "测试你的反应速度！颜色变化时尽快点击。",
+  "@rt_gameDescription": {
+    "description": "Reaction Test game description"
+  },
+  "rt_instructions": "等待背景颜色变化，然后尽快点击！",
+  "@rt_instructions": {
+    "description": "Reaction Test game instructions"
+  },
+  "rt_selectPreset": "选择配色方案",
+  "@rt_selectPreset": {
+    "description": "Color preset selection label"
+  },
+  "rt_redGreenColorblind": "红绿组合",
+  "@rt_redGreenColorblind": {
+    "description": "Red-green colorblind friendly preset"
+  },
+  "rt_blueYellowColorblind": "蓝黄组合",
+  "@rt_blueYellowColorblind": {
+    "description": "Blue-yellow colorblind friendly preset"
+  },
+  "rt_monochromacy": "黑白组合",
+  "@rt_monochromacy": {
+    "description": "Monochromacy (grayscale) preset"
+  },
+  "rt_custom": "自定义组合",
+  "@rt_custom": {
+    "description": "Custom color selection option"
+  },
+  "rt_beforeColor": "变化前颜色",
+  "@rt_beforeColor": {
+    "description": "Before color selection label"
+  },
+  "rt_afterColor": "变化后颜色",
+  "@rt_afterColor": {
+    "description": "After color selection label"
+  },
+  "rt_sameColorWarning": "变化前和变化后颜色不能相同！",
+  "@rt_sameColorWarning": {
+    "description": "Warning when same color is selected"
+  },
+  "rt_testNumber": "第 {current} 次测试，共 {total} 次",
+  "@rt_testNumber": {
+    "description": "Current test number display",
+    "placeholders": {
+      "current": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "rt_waitForIt": "等待中...",
+  "@rt_waitForIt": {
+    "description": "Instruction to wait for color change"
+  },
+  "rt_tapNow": "立即点击！",
+  "@rt_tapNow": {
+    "description": "Instruction to tap when color changed"
+  },
+  "rt_reactionTime": "{time} 毫秒",
+  "@rt_reactionTime": {
+    "description": "Reaction time display in milliseconds",
+    "placeholders": {
+      "time": {
+        "type": "int"
+      }
+    }
+  },
+  "rt_results": "测试结果",
+  "@rt_results": {
+    "description": "Results dialog title"
+  },
+  "rt_average": "平均",
+  "@rt_average": {
+    "description": "Average reaction time label"
+  },
+  "rt_best": "最快",
+  "@rt_best": {
+    "description": "Best reaction time label"
+  },
+  "rt_worst": "最慢",
+  "@rt_worst": {
+    "description": "Worst reaction time label"
+  },
+  "rt_tooEarly": "太早了！请等待颜色变化。",
+  "@rt_tooEarly": {
+    "description": "Warning when user taps before color changes"
+  },
+  "leaderboard": "排行榜",
+  "@leaderboard": {
+    "description": "Leaderboard dialog title"
+  },
+  "rt_leaderboardSubtitle": "最快反应时间",
+  "@rt_leaderboardSubtitle": {
+    "description": "Leaderboard subtitle for reaction test"
+  },
+  "rt_noRecords": "暂无记录，开始游戏创造你的第一条记录吧！",
+  "@rt_noRecords": {
+    "description": "Message when no leaderboard records exist"
+  },
+  "close": "关闭",
+  "@close": {
+    "description": "Close button label"
+  },
+
+  "game_aim_test": "瞄准测试",
+  "@game_aim_test": {
+    "description": "Aim Test game title"
+  },
+  "at_gameDescription": "测试你的瞄准能力！在30秒内尽可能多地点击气泡。",
+  "@at_gameDescription": {
+    "description": "Aim Test game description"
+  },
+  "at_instructions": "在气泡消失前点击它们！你有30秒时间。",
+  "@at_instructions": {
+    "description": "Aim Test game instructions"
+  },
+  "at_settings": "设置",
+  "@at_settings": {
+    "description": "Settings section title"
+  },
+  "at_deadZone": "死区",
+  "@at_deadZone": {
+    "description": "Dead zone setting label"
+  },
+  "at_deadZonePercent": "死区 {percent}%",
+  "@at_deadZonePercent": {
+    "description": "Dead zone percentage display",
+    "placeholders": {
+      "percent": {
+        "type": "int"
+      }
+    }
+  },
+  "at_bubbleColor": "气泡颜色",
+  "@at_bubbleColor": {
+    "description": "Bubble color setting label"
+  },
+  "at_gameDuration": "游戏时长",
+  "@at_gameDuration": {
+    "description": "Game duration setting label"
+  },
+  "at_misses": "失误",
+  "@at_misses": {
+    "description": "Missed clicks counter label"
+  },
+  "at_appearAnimation": "气泡动画",
+  "@at_appearAnimation": {
+    "description": "Enable bubble appear animation setting"
+  },
+  "at_bubbleSize": "气泡大小",
+  "@at_bubbleSize": {
+    "description": "Bubble size setting label"
+  },
+  "at_preview": "预览",
+  "@at_preview": {
+    "description": "Live preview label for settings"
+  },
+  "at_hits": "命中",
+  "@at_hits": {
+    "description": "Hits counter label"
+  },
+  "at_accuracy": "准确率",
+  "@at_accuracy": {
+    "description": "Accuracy percentage label"
+  },
+  "at_gameOver": "游戏结束！",
+  "@at_gameOver": {
+    "description": "Game over dialog title"
+  },
+  "at_finalScore": "最终得分",
+  "@at_finalScore": {
+    "description": "Final score label"
+  },
+  "at_bubblesSpawned": "生成气泡数",
+  "@at_bubblesSpawned": {
+    "description": "Total bubbles spawned label"
+  },
+  "at_timeUp": "时间到！",
+  "@at_timeUp": {
+    "description": "Time's up message"
+  },
+  "at_playAgain": "再玩一次",
+  "@at_playAgain": {
+    "description": "Play again button"
+  },
+  "at_startGame": "开始游戏",
+  "@at_startGame": {
+    "description": "Start game button"
+  },
+  "at_countdown3": "3",
+  "@at_countdown3": {
+    "description": "Countdown number 3"
+  },
+  "at_countdown2": "2",
+  "@at_countdown2": {
+    "description": "Countdown number 2"
+  },
+  "at_countdown1": "1",
+  "@at_countdown1": {
+    "description": "Countdown number 1"
+  },
+  "at_countdownGo": "开始!",
+  "@at_countdownGo": {
+    "description": "Countdown GO! message"
+  },
+
+  "category_dice": "骰子",
+  "@category_dice": {
+    "description": "Category name for dice games"
+  },
+  "category_cards": "牌类",
+  "@category_cards": {
+    "description": "Category name for card games"
+  },
+  "category_board": "棋类",
+  "@category_board": {
+    "description": "Category name for board games"
+  },
+  "category_reaction": "反应力",
+  "@category_reaction": {
+    "description": "Category name for reaction games"
+  },
+  "category_casual": "休闲",
+  "@category_casual": {
+    "description": "Category name for casual games"
+  },
+  "category_favorites": "喜好",
+  "@category_favorites": {
+    "description": "Favorites category header"
+  },
+  "favorites_count": "{count} 个游戏",
+  "@favorites_count": {
+    "description": "Game count in favorites section",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+   "sort_by_category": "按分类",
+   "@sort_by_category": {
+     "description": "Sort mode option"
+   },
+   "sort_by_release_time": "按推出时间",
+   "@sort_by_release_time": {
+     "description": "Sort mode option - by release time"
+   },
+   "sort_by_creator": "按创造者",
+   "@sort_by_creator": {
+     "description": "Sort mode option - by creator/AI model"
+   },
+   "creator_glm": "GLM-5 + qwen3.5-plus",
+   "@creator_glm": {
+     "description": "Creator group name for GLM models"
+   },
+   "creator_minimax": "MiniMax-M2.7",
+   "@creator_minimax": {
+     "description": "Creator group name for MiniMax model"
+   },
+   "creator_mimo": "mimo-v2.5-pro",
+   "@creator_mimo": {
+     "description": "Creator group name for mimo model"
+   },
+    "category_all_games": "其他游戏",
+    "@category_all_games": {
+      "description": "Category name for other games section"
+    },
+    
+    "ci_gameTitle": "国际象棋",
+    "ci_gameDescription": "经典国际象棋对弈AI，支持FEN导入和PGN导出",
+    "ci_startGame": "开始游戏",
+    "ci_howToPlay": "玩法说明",
+    "ci_aiDifficulty": "AI难度",
+    "ci_easy": "简单",
+    "ci_hard": "困难",
+    "ci_playAs": "执棋颜色",
+    "ci_white": "白棋",
+    "ci_black": "黑棋",
+    "ci_importFen": "导入局面 (FEN)",
+    "ci_importFenDesc": "粘贴FEN字符串以从特定局面开始",
+    "ci_validate": "验证",
+    "ci_fenValid": "FEN有效！局面将被导入。",
+    "ci_newGame": "新对局",
+    "ci_undo": "悔棋",
+    "ci_copyFen": "复制FEN",
+    "ci_exportPgn": "导出PGN",
+    "ci_exitGame": "退出游戏",
+    "ci_exitConfirm": "确定要退出吗？当前进度将会丢失。",
+    "ci_restartConfirm": "确定要重新开始吗？当前进度将会丢失。",
+    "ci_fenCopied": "FEN已复制到剪贴板",
+    "ci_pgnCopied": "PGN已复制到剪贴板",
+    "ci_copyPgn": "复制PGN",
+    "ci_moveHistory": "走棋记录",
+    "ci_noMovesYet": "暂无走棋",
+    "ci_preparing": "准备中...",
+    "ci_yourTurn": "你的回合",
+    "ci_aiTurn": "AI思考中...",
+    "ci_youAreInCheck": "将军！请注意",
+    "ci_aiInCheck": "AI被将军",
+    "ci_youWin": "你赢了！",
+    "ci_aiWins": "AI获胜",
+    "ci_stalemate": "逼和 - 平局",
+    "ci_draw": "平局",
+    "ci_choosePromotion": "选择升变棋子",
+    "ci_thinking": "思考中...",
+    "ci_you": "你",
+    "ci_rule1Title": "目标",
+    "ci_rule1Desc": "将杀对方的王。当王被攻击且无法逃脱时，游戏结束。",
+    "ci_rule2Title": "移动",
+    "ci_rule2Desc": "点击棋子查看合法走法高亮显示。点击高亮格子进行移动。每种棋子走法不同。",
+    "ci_rule3Title": "特殊走法",
+    "ci_rule3Desc": "王车易位：王向车方向移动两格。吃过路兵：兵吃相邻刚走两步的兵。升变：兵到达底线可升变为后、车、象或马。",
+    "ci_rule4Title": "和棋条件",
+    "ci_rule4Desc": "逼和（无合法走法但未被将军）、50步规则（无吃子或兵移动）、三次重复局面或子力不足时判和。",
+    "ci_rule5Title": "FEN与PGN",
+    "ci_rule5Desc": "使用FEN记谱法导入局面。通过菜单以PGN格式导出对局记录。",
+    "ci_pieceStyle": "棋子风格",
+    "ci_styleOutline": "空心",
+    "ci_styleFilled": "实心",
+
+    "sg_gameTitle": "舒尔特方格",
+    "sg_gameDescription": "训练专注力！按1到N的顺序尽快点击数字。",
+    "sg_instructions": "选择网格大小开始训练。按1到N的升序点击数字。点击1时开始计时。",
+    "sg_sizeLabel": "{size}x{size} 方格（{total}个数字）",
+    "@sg_sizeLabel": {
+      "description": "Grid size label with total numbers",
+      "placeholders": {
+        "size": { "type": "int" },
+        "total": { "type": "int" }
+      }
+    },
+    "sg_bestTime": "最佳",
+    "sg_noRecord": "暂无记录",
+    "sg_tapToStart": "点击1开始计时",
+    "sg_paused": "已暂停",
+    "sg_next": "下一个",
+    "sg_completed": "完成！",
+    "sg_newBest": "新纪录！",
+    "sg_leaderboard": "排行榜",
+    "sg_noRecords": "暂无记录。\n完成一次训练来创建你的第一条记录！",
+    "sg_clearLeaderboard": "清空排行榜",
+    "sg_clearConfirm": "确定要清空该尺寸的所有记录吗？",
+    "createdByGlm": "由 GLM-5 + qwen3.5-plus 生成",
+
+    "game_fishing": "模拟钓鱼",
+    "@game_fishing": {
+      "description": "Fishing game title"
+    },
+    "fishing_gameDescription": "抛出鱼竿，等待鱼儿上钩！注意观察浮标，及时提竿。",
+    "@fishing_gameDescription": {
+      "description": "Fishing game description"
+    },
+    "fishing_step1": "抛出鱼竿，等待浮标出现动静",
+    "@fishing_step1": {
+      "description": "Fishing step 1 instruction"
+    },
+    "fishing_step2": "看到提竿提示时，快速点击屏幕",
+    "@fishing_step2": {
+      "description": "Fishing step 2 instruction"
+    },
+    "fishing_step3": "使用上下按钮移动力度条，与鱼的位置对齐",
+    "@fishing_step3": {
+      "description": "Fishing step 3 instruction"
+    },
+    "fishing_step4": "进度条满了就能钓到鱼",
+    "@fishing_step4": {
+      "description": "Fishing step 4 instruction"
+    },
+    "fishing_throwRod": "抛出你的鱼竿！",
+    "@fishing_throwRod": {
+      "description": "Throw rod instruction text"
+    },
+    "fishing_cast": "抛竿",
+    "@fishing_cast": {
+      "description": "Cast line button text"
+    },
+    "fishing_caught": "钓到了！",
+    "@fishing_caught": {
+      "description": "Fish caught success message"
+    },
+    "fishing_escaped": "鱼跑了！",
+    "@fishing_escaped": {
+      "description": "Fish escaped failure message"
+    },
+"fishing_continue": "继续钓鱼",
+    "@fishing_continue": {
+      "description": "Continue fishing button text"
+    },
+    "fishing_tapNow": "立即点击！",
+    "@fishing_tapNow": {
+      "description": "Tap now instruction during bite"
+    },
+    "fishing_aligned": "对齐了！",
+    "@fishing_aligned": {
+      "description": "Alignment indicator when block is aligned with fish"
+    },
+    "fishing_moveToFish": "移动到鱼的位置！",
+    "@fishing_moveToFish": {
+      "description": "Alignment indicator when block needs to move"
+    },
+    "fishing_up": "上",
+    "@fishing_up": {
+      "description": "Up direction label for control button"
+    },
+    "fishing_hold": "按住",
+    "@fishing_hold": {
+      "description": "Hold instruction for control button"
+    },
+    "fishing_waitingForFish": "等待鱼儿上钩...",
+    "@fishing_waitingForFish": {
+      "description": "Waiting message when expecting a bite"
+    },
+    "fishing_caughtStat": "钓到",
+    "@fishing_caughtStat": {
+      "description": "Caught fish stat label"
+    },
+    "fishing_escapedStat": "跑掉",
+    "@fishing_escapedStat": {
+      "description": "Escaped fish stat label"
+    },
+    "fishing_fishSmall": "小鱼",
+    "@fishing_fishSmall": {
+      "description": "Small fish name (easy difficulty)"
+    },
+    "fishing_fishMedium": "中鱼",
+    "@fishing_fishMedium": {
+      "description": "Medium fish name (medium difficulty)"
+    },
+    "fishing_fishLarge": "大鱼",
+    "@fishing_fishLarge": {
+      "description": "Large fish name (hard difficulty)"
+    },
+    "fishing_fishWild": "狂鱼",
+    "@fishing_fishWild": {
+      "description": "Wild fish name (wild difficulty)"
+    },
+    "fishing_fishLegendary": "传说之鱼",
+    "@fishing_fishLegendary": {
+      "description": "Legendary fish name"
+    },
+
+    "game_connect_four": "四子棋",
+    "@game_connect_four": {
+      "description": "Connect Four game display name"
+    },
+    "c4_gameTitle": "四子棋",
+    "@c4_gameTitle": {
+      "description": "Connect Four game title"
+    },
+    "c4_gameDescription": "经典双人策略游戏。在7×6的棋盘中投入棋子，率先将四枚棋子连成一线即可获胜！",
+    "@c4_gameDescription": {
+      "description": "Connect Four game description"
+    },
+    "c4_howToPlay": "玩法说明",
+    "@c4_howToPlay": {
+      "description": "How to play title"
+    },
+    "c4_rule1Title": "棋盘",
+    "@c4_rule1Title": {
+      "description": "Rule 1 title"
+    },
+    "c4_rule1Desc": "棋盘共有7行6列。双方轮流将棋子投入任意一列。",
+    "@c4_rule1Desc": {
+      "description": "Rule 1 description"
+    },
+    "c4_rule2Title": "重力",
+    "@c4_rule2Title": {
+      "description": "Rule 2 title"
+    },
+    "c4_rule2Desc": "棋子受重力影响，自动落入所选列的最低空位。",
+    "@c4_rule2Desc": {
+      "description": "Rule 2 description"
+    },
+    "c4_rule3Title": "胜利条件",
+    "@c4_rule3Title": {
+      "description": "Rule 3 title"
+    },
+    "c4_rule3Desc": "率先将四枚棋子在横向、纵向或对角线方向连成一线者获胜！",
+    "@c4_rule3Desc": {
+      "description": "Rule 3 description"
+    },
+    "c4_rule4Title": "平局",
+    "@c4_rule4Title": {
+      "description": "Rule 4 title"
+    },
+    "c4_rule4Desc": "若42个格位全部填满且无人连成四子，则判定为平局。",
+    "@c4_rule4Desc": {
+      "description": "Rule 4 description"
+    },
+    "c4_startGame": "开始游戏",
+    "@c4_startGame": {
+      "description": "Start game button"
+    },
+    "c4_newGame": "新游戏",
+    "@c4_newGame": {
+      "description": "New game button"
+    },
+    "c4_undo": "撤销",
+    "@c4_undo": {
+      "description": "Undo button"
+    },
+    "c4_exitGame": "退出游戏",
+    "@c4_exitGame": {
+      "description": "Exit game button"
+    },
+    "c4_exitConfirm": "确定要退出当前游戏吗？",
+    "@c4_exitConfirm": {
+      "description": "Exit confirmation message"
+    },
+    "c4_restartConfirm": "开始新游戏？当前进度将会丢失。",
+    "@c4_restartConfirm": {
+      "description": "Restart confirmation message"
+    },
+    "c4_aiDifficulty": "AI难度",
+    "@c4_aiDifficulty": {
+      "description": "AI difficulty label"
+    },
+    "c4_easy": "简单",
+    "@c4_easy": {
+      "description": "Easy difficulty"
+    },
+    "c4_medium": "中等",
+    "@c4_medium": {
+      "description": "Medium difficulty"
+    },
+    "c4_hard": "困难",
+    "@c4_hard": {
+      "description": "Hard difficulty"
+    },
+    "c4_you": "你",
+    "@c4_you": {
+      "description": "Player label"
+    },
+    "c4_ai": "AI",
+    "@c4_ai": {
+      "description": "AI label"
+    },
+    "c4_vs": "VS",
+    "@c4_vs": {
+      "description": "Versus label"
+    },
+    "c4_thinking": "思考中...",
+    "@c4_thinking": {
+      "description": "AI thinking indicator"
+    },
+    "c4_preparing": "准备中...",
+    "@c4_preparing": {
+      "description": "Game preparing status"
+    },
+    "c4_yourTurn": "你的回合 — 点击一列投入棋子",
+    "@c4_yourTurn": {
+      "description": "Player turn status"
+    },
+    "c4_aiTurn": "AI正在思考...",
+    "@c4_aiTurn": {
+      "description": "AI turn status"
+    },
+    "c4_youWin": "你赢了！",
+    "@c4_youWin": {
+      "description": "Player wins message"
+    },
+    "c4_aiWins": "AI获胜！",
+    "@c4_aiWins": {
+      "description": "AI wins message"
+    },
+    "c4_draw": "平局！",
+    "@c4_draw": {
+      "description": "Draw message"
+    },
+    "c4_moveHistory": "落子记录",
+    "@c4_moveHistory": {
+      "description": "Move history panel title"
+    },
+    "c4_noMovesYet": "暂无落子",
+    "@c4_noMovesYet": {
+      "description": "Empty move history message"
+    }
+}

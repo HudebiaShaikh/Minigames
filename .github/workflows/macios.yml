@@ -1,0 +1,27 @@
+name: macOS build
+on: [push, pull_request]
+jobs:
+  web:
+    name: build macOS
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-java@v5
+        with:
+          java-version: '17'
+          java-package: jdk
+          architecture: x64
+          distribution: 'jetbrains'
+        env:
+          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+      - uses: subosito/flutter-action@v2
+        with:
+          channel: 'stable'
+      - run: flutter config --enable-macos-desktop
+      - run: flutter pub get
+      - run: flutter pub run build_runner build --delete-conflicting-outputs
+      - run: flutter build macos
+      - uses: actions/upload-artifact@v4
+        with:
+          name: macOS-release
+          path: build/macos/Build/Release/minigames.app

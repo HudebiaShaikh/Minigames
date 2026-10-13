@@ -1,0 +1,63 @@
+name: minigames
+description: "A Flutter minigames collection app."
+publish_to: 'none'
+
+version: 6.2.0+620
+
+environment:
+  sdk: ^3.11.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+
+  # Game engine
+  flame: ^1.19.0
+  flame_audio: ^2.10.0
+  flame_forge2d: ^0.19.2
+  flame_riverpod: ^5.4.21
+  forge2d: ^0.14.0
+
+  # State management
+  flutter_riverpod: ^2.5.1
+  riverpod_annotation: ^2.3.5
+
+  # Database
+  drift: ^2.28.2
+  sqlite3: ^2.9.4
+  sqlite3_flutter_libs: ^0.5.24
+
+  # Storage
+  path: ^1.9.0
+  path_provider: ^2.1.5
+  shared_preferences: ^2.2.3
+
+  # Localization
+  intl: ^0.20.0
+
+  # Utilities
+  equatable: ^2.0.5
+  package_info_plus: ^8.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+  build_runner: ^2.4.11
+  riverpod_generator: ^2.4.0
+  riverpod_lint: ^2.3.5
+  custom_lint: ^0.7.6
+  drift_dev: ^2.28.0
+
+flutter:
+  uses-material-design: true
+  generate: true
+  assets:
+    - assets/audio/
+    - assets/images/
+    - assets/fonts/
